@@ -12,12 +12,12 @@ The user interface is a web application making use of software intended to creat
 ### Panning
 Use your mouse to pan the map around. To this end click and hold down your left mouse button somewhere on the spectra map and move your mouse. As an Alternative use your keyboards arrow keys to move the map around.
  
- FIXME: Animated gif
+![panning illustration](img/animation_panning.gif)
 
 ### Zooming
 There are several ways to zoom in and out of the spectra map. You can click the Plus and Minus buttons on the top left of the spectra area to zoom in and out. Also, turning mousewheel or using your touchpad's scroll function with the mouse cursor over the spectra area will trigger the change of zoom level.
  
- FIXME: Animated gif
+![panning illustration](img/animation_zoom.gif)
 
 ### Add and remove Layers
 There is a collapsed layer menu on the top right of the spectra area. It allows you to add and remove more layers to the map view. For example you could have a color coded layer for the red shift of your spectra objects.
