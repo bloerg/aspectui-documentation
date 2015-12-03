@@ -1,0 +1,6 @@
+site_name: ASPECTui documentation
+pages:
+- Home: index.md
+- Contact: contact.md
+theme: readthedocs
+
