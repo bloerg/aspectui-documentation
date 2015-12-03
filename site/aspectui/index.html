@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>User Interface - ASPECT-ui documentation</title>
+  
+
+  <link rel="shortcut icon" href="../img/favicon.ico">
+
+  
+  <link href='https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700' rel='stylesheet' type='text/css'>
+
+  <link rel="stylesheet" href="../css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../css/theme_extra.css" type="text/css" />
+  <link rel="stylesheet" href="../css/highlight.css">
+
+  
+  <script>
+    // Current page data
+    var mkdocs_page_name = "User Interface";
+  </script>
+  
+  <script src="../js/jquery-2.1.1.min.js"></script>
+  <script src="../js/modernizr-2.8.3.min.js"></script>
+  <script type="text/javascript" src="../js/highlight.pack.js"></script>
+  <script src="../js/theme.js"></script> 
+
+  
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+      <div class="wy-side-nav-search">
+        <a href=".." class="icon icon-home"> ASPECT-ui documentation</a>
+        <div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+        <ul class="current">
+          
+            <li>
+    <li class="toctree-l1 ">
+        <a class="" href="..">Home</a>
+        
+    </li>
+<li>
+          
+            <li>
+    <li class="toctree-l1 current">
+        <a class="current" href="./">User Interface</a>
+        
+            <ul>
+            
+                <li class="toctree-l3"><a href="#user-interface-documentation">User Interface documentation</a></li>
+                
+                    <li><a class="toctree-l4" href="#map-view">Map View</a></li>
+                
+                    <li><a class="toctree-l4" href="#basic-use">Basic use</a></li>
+                
+                    <li><a class="toctree-l4" href="#working-with-the-map">Working with the map</a></li>
+                
+            
+            </ul>
+        
+    </li>
+<li>
+          
+            <li>
+    <li class="toctree-l1 ">
+        <a class="" href="../wishlist/">Features to come</a>
+        
+    </li>
+<li>
+          
+            <li>
+    <li class="toctree-l1 ">
+        <a class="" href="../contact/">Contact</a>
+        
+    </li>
+<li>
+          
+        </ul>
+      </div>
+      &nbsp;
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
+        <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+        <a href="..">ASPECT-ui documentation</a>
+      </nav>
+
+      
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href="..">Docs</a> &raquo;</li>
+    
+      
+    
+    <li>User Interface</li>
+    <li class="wy-breadcrumbs-aside">
+      
+    </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main">
+            <div class="section">
+              
+                <h1 id="user-interface-documentation">User Interface documentation</h1>
+<h2 id="map-view">Map View</h2>
+<p>The screenshot below shows the most prominent features of the user interface. Most of the screen space is filled by the spectra map. It is composed of icons represenenting downscaled <a href="http://sdss3.org">SDSS</a> spectra. Left of the map can be found a tool to import and export data sets which would be highlighted in the map. Above the map a tool for coordinate input allows to jump to a certain point in the Kohonen Map.</p>
+<p><img alt="Basic ASPECT-ui screenshot" src="../img/screenshot_aspectui_basic.png" /></p>
+<h2 id="basic-use">Basic use</h2>
+<p>The user interface is a web application making use of software intended to create responsive streetmaps like for instance <a href="http://www.openstreetmap.org">Openstreetmap</a>. Thus it allows similar interactions. </p>
+<h3 id="panning">Panning</h3>
+<p>Use your mouse to pan the map around. To this end click and hold down your left mouse button somewhere on the spectra map and move your mouse. As an Alternative use your keyboards arrow keys to move the map around.</p>
+<p>FIXME: Animated gif</p>
+<h3 id="zooming">Zooming</h3>
+<p>There are several ways to zoom in and out of the spectra map. You can click the Plus and Minus buttons on the top left of the spectra area to zoom in and out. Also, turning mousewheel or using your touchpad's scroll function with the mouse cursor over the spectra area will trigger the change of zoom level.</p>
+<p>FIXME: Animated gif</p>
+<h3 id="add-and-remove-layers">Add and remove Layers</h3>
+<p>There is a collapsed layer menu on the top right of the spectra area. It allows you to add and remove more layers to the map view. For example you could have a color coded layer for the red shift of your spectra objects.</p>
+<h2 id="working-with-the-map">Working with the map</h2>
+<h3 id="inspect-objects-at-the-sdss">Inspect objects at the SDSS</h3>
+<p>Clicking on a spectra in the map opens a popup with extra information regarding the clicked object. There can be different data in the popup, however there is at least the link to the <a href="http://skyserver.sdss.org/dr12/en/tools/explore/Summary.aspx?">SDSS Explorer</a> homepage of the corresponding object. If you are looking for a detailed spectrum and metadata this is the place to go.</p>
+<p>FIXME: Animated gif</p>
+<h3 id="select-objects-for-later-export">Select objects for later export</h3>
+<p>On the upper left of the spectra area, below the Plus/Minus zoom control you can find areal and single object selection tools. Use them to make sets of interesting objects for later export or illustration of object positions in the map. </p>
+<p>The objects you select are stored in <em>user selection layers</em>. There is alway one such layer named <em>default</em>. As soon as you switch it on in the layer control menu in the upper right of the spectra area, you can start to select objects. You will see, that they are indicated with color overlay immediately. </p>
+<p>To export the objects coordinates in the Kohonen Map and the relevant SDSS ids (<a href="http://www.sdss.org/dr12/help/glossary/#mjd">MJD</a>, <a href="http://www.sdss.org/dr12/help/glossary/#plate">plate id</a>, <a href="http://www.sdss.org/dr12/help/glossary/#fiber">fiber id</a>) click the export button of the according user selection layer left of the spectra area.</p>
+<p>Depending on the number of objects in the layer export can take a while. </p>
+<p>An export should look similar to this:</p>
+<pre><code>som_x,som_y,mjd,plateid,fiberid
+16,17,56072,6014,634
+16,18,55856,4289,816
+16,19,56046,5173,782
+16,20,56243,6377,676
+17,17,53499,2011,310
+17,18,56365,6629,862
+17,19,55654,3961,714
+17,20,56413,6669,462
+18,17,56448,7030,516
+18,18,56576,7055,966
+18,19,55803,5062,98
+18,20,55681,4704,84
+19,17,56749,7376,997
+19,18,56662,7337,626
+19,19,56566,7137,906
+19,20,56046,5173,883
+</code></pre>
+
+<h3 id="add-more-user-defined-layers">Add more user defined layers</h3>
+<p>You can add more user defined layers. You would want this for example if you need to distinguis between two selections by color or to keep different types of objects apart.</p>
+<p>To add a new layer click <em>add layer</em> on the left side. You will be asked for a <em>layer name</em>, which can be descriptive like <em>Interesting Objects of Type 1</em> or short like <em>other</em>. Also you can set a color for the indication of selected objects. Use either color words like <em>red</em>, <em>black</em>, <em>green</em> and so on or <a href="http://www.w3schools.com/html/html_colorvalues.asp">html colors in hexadecimal notation</a>. Also, there is a nice <a href="http://www.w3schools.com/tags/ref_colorpicker.asp">color picker</a> giving you the hexademical values.</p>
+<p>Once you have added the new layer, and you probably want to do two things:
+1. Add the layer as overlay to the map by activating it in the layer menu in the upper right of the spectra area.
+2. Activate the layer as target for selected objects, by clicking it on the left hand side in the list of available layers.</p>
+<p>Then start to add objects to the newly created layer by using the selection tools in the upper left of the spectra map.</p>
+<h3 id="color-overlay">Color Overlay</h3>
+<p>ASPECT-ui allows to import csv-data as layers. Just prepare a <a href="https://en.wikipedia.org/wiki/Comma-separated_values">csv</a> data set. It has to have headers with at least x and y coordinates in the Kohonen Map space or <a href="http://www.sdss.org/dr12/help/glossary/#mjd">MJD</a>, <a href="http://www.sdss.org/dr12/help/glossary/#plate">plate id</a>, <a href="http://www.sdss.org/dr12/help/glossary/#fiber">fiber id</a>. </p>
+<p>The expected names of the csv fields are <code>som_x</code> for the x coordinate in the Kohonen Map, <code>som_y</code> for the y coordinate, <code>mjd</code> for SDSS MJD, <code>plateid</code> for SDSS plate id and <code>fiberid</code> for SDSS fiber id.</p>
+<p>So your import csv data could look like:</p>
+<pre><code>som_x,som_y
+0,0
+100,100
+13,234
+</code></pre>
+
+<p>Which would lead to marked objects at the given coordinates. </p>
+<p>If you don't know x and y coordinates but <a href="http://www.sdss.org/dr12/help/glossary/#mjd">MJD</a>, <a href="http://www.sdss.org/dr12/help/glossary/#plate">plate id</a> and <a href="http://www.sdss.org/dr12/help/glossary/#fiber">fiber id</a>, you can also import data like:</p>
+<pre><code>mjd,plateid,fiberid
+56072,6014,634
+55856,4289,816
+56046,5173,782
+56243,6377,676
+</code></pre>
+
+<p>The software of the user interface will try to map the ids to spectra in the Kohonen Map. They have to be there, of course.</p>
+<p>Depending on the number of objects in the layer import can take a while. </p>
+              
+            </div>
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="../wishlist/" class="btn btn-neutral float-right" title="Features to come"/>Next <span class="icon icon-circle-arrow-right"></span></a>
+      
+      
+        <a href=".." class="btn btn-neutral" title="Home"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+    
+  </div>
+
+  Built with <a href="http://www.mkdocs.org">MkDocs</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+	  
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+<div class="rst-versions" role="note" style="cursor: pointer">
+    <span class="rst-current-version" data-toggle="rst-current-version">
+      
+      
+        <span><a href=".." style="color: #fcfcfc;">&laquo; Previous</a></span>
+      
+      
+        <span style="margin-left: 15px"><a href="../wishlist/" style="color: #fcfcfc">Next &raquo;</a></span>
+      
+    </span>
+</div>
+
+</body>
+</html>
