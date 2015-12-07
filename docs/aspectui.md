@@ -22,6 +22,8 @@ There are several ways to zoom in and out of the spectra map. You can click the 
 ### Add and remove Layers
 There is a collapsed layer menu on the top right of the spectra area. It allows you to add and remove more layers to the map view. For example you could have a color coded layer for the red shift of your spectra objects.
 
+![redshift layer illustration](img/animation_redshift.gif)
+
 ## Working with the map
 
 ### Inspect objects at the SDSS
@@ -63,7 +65,7 @@ som_x,som_y,mjd,plateid,fiberid
 ```
 
 ### Add more user defined layers
-You can add more user defined layers. You would want this for example if you need to distinguis between two selections by color or to keep different types of objects apart.
+You can add more user defined layers. You would want to do this for example if you needed to distinguish between two selections by color or to keep different types of objects apart.
 
 To add a new layer click *add layer* on the left side. You will be asked for a *layer name*, which can be descriptive like *Interesting Objects of Type 1* or short like *other*. Also you can set a color for the indication of selected objects. Use either color words like *red*, *black*, *green* and so on or [html colors in hexadecimal notation](http://www.w3schools.com/html/html_colorvalues.asp). Also, there is a nice [color picker](http://www.w3schools.com/tags/ref_colorpicker.asp) giving you the hexademical values.
 
