@@ -25,9 +25,11 @@ There is a collapsed layer menu on the top right of the spectra area. It allows 
 ## Working with the map
 
 ### Inspect objects at the SDSS
-Clicking on a spectra in the map opens a popup with extra information regarding the clicked object. There can be different data in the popup, however there is at least the link to the [SDSS Explorer](http://skyserver.sdss.org/dr12/en/tools/explore/Summary.aspx?) homepage of the corresponding object. If you are looking for a detailed spectrum and metadata this is the place to go.
+Clicking on a spec icon in the map opens a popup with extra information regarding the clicked object. There can be different data in the popup, however there is at least the link to the [SDSS Explorer](http://skyserver.sdss.org/dr12/en/tools/explore/Summary.aspx?) homepage of the corresponding object. If you are looking for a detailed spectrum and metadata this is the place to go.
 
-  FIXME: Animated gif
+Clicking on the Explorer link adds the clicked icon to the user defined layer *Explorer Click*. On activation of this layer in the top right layer menu will blend in the string "explored" on the clicked spec icons.
+
+![explore illustration](img/animation_explore.gif)
 
 ### Select objects for later export
 On the upper left of the spectra area, below the Plus/Minus zoom control you can find areal and single object selection tools. Use them to make sets of interesting objects for later export or illustration of object positions in the map. 
