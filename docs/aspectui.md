@@ -24,6 +24,11 @@ There is a collapsed layer menu on the top right of the spectra area. It allows 
 
 ![redshift layer illustration](img/animation_redshift.gif)
 
+### Changing colors
+If in the upper right layer menu the *colored background* layer is selected, you can change colors of the spec icons and their background. To this end type colors in [hexadecimal notation](http://www.w3schools.com/html/html_colorvalues.asp) or just use color words like *red*, *green*, *black* etc. Also, there is a nice [color picker](http://www.w3schools.com/tags/ref_colorpicker.asp) giving you the hexademical values.
+
+![explore illustration](img/animation_colors.gif)
+
 ## Working with the map
 
 ### Inspect objects at the SDSS

@@ -13,7 +13,8 @@ This could be a letter, a cross or a colored margin around the spectrum.
 
 ## Other User inteface improvements
 - in selections don't collect empty neurons
-
+- autoconfiguration for colored backgrounds like redshift layer
+- always plot spectra in a color complementary to the background for better visiblity
 
 ## Save/Load button to save and restore the whole work space for later use
 
