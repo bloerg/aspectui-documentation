@@ -136,10 +136,12 @@
 <p><img alt="panning illustration" src="../img/animation_zoom.gif" /></p>
 <h3 id="add-and-remove-layers">Add and remove Layers</h3>
 <p>There is a collapsed layer menu on the top right of the spectra area. It allows you to add and remove more layers to the map view. For example you could have a color coded layer for the red shift of your spectra objects.</p>
+<p><img alt="redshift layer illustration" src="../img/animation_redshift.gif" /></p>
 <h2 id="working-with-the-map">Working with the map</h2>
 <h3 id="inspect-objects-at-the-sdss">Inspect objects at the SDSS</h3>
-<p>Clicking on a spectra in the map opens a popup with extra information regarding the clicked object. There can be different data in the popup, however there is at least the link to the <a href="http://skyserver.sdss.org/dr12/en/tools/explore/Summary.aspx?">SDSS Explorer</a> homepage of the corresponding object. If you are looking for a detailed spectrum and metadata this is the place to go.</p>
-<p>FIXME: Animated gif</p>
+<p>Clicking on a spec icon in the map opens a popup with extra information regarding the clicked object. There can be different data in the popup, however there is at least the link to the <a href="http://skyserver.sdss.org/dr12/en/tools/explore/Summary.aspx?">SDSS Explorer</a> homepage of the corresponding object. If you are looking for a detailed spectrum and metadata this is the place to go.</p>
+<p>Clicking on the Explorer link adds the clicked icon to the user defined layer <em>Explorer Click</em>. On activation of this layer in the top right layer menu will blend in the string "explored" on the clicked spec icons.</p>
+<p><img alt="explore illustration" src="../img/animation_explore.gif" /></p>
 <h3 id="select-objects-for-later-export">Select objects for later export</h3>
 <p>On the upper left of the spectra area, below the Plus/Minus zoom control you can find areal and single object selection tools. Use them to make sets of interesting objects for later export or illustration of object positions in the map. </p>
 <p>The objects you select are stored in <em>user selection layers</em>. There is alway one such layer named <em>default</em>. As soon as you switch it on in the layer control menu in the upper right of the spectra area, you can start to select objects. You will see, that they are indicated with color overlay immediately. </p>
@@ -166,7 +168,7 @@
 </code></pre>
 
 <h3 id="add-more-user-defined-layers">Add more user defined layers</h3>
-<p>You can add more user defined layers. You would want this for example if you need to distinguis between two selections by color or to keep different types of objects apart.</p>
+<p>You can add more user defined layers. You would want to do this for example if you needed to distinguish between two selections by color or to keep different types of objects apart.</p>
 <p>To add a new layer click <em>add layer</em> on the left side. You will be asked for a <em>layer name</em>, which can be descriptive like <em>Interesting Objects of Type 1</em> or short like <em>other</em>. Also you can set a color for the indication of selected objects. Use either color words like <em>red</em>, <em>black</em>, <em>green</em> and so on or <a href="http://www.w3schools.com/html/html_colorvalues.asp">html colors in hexadecimal notation</a>. Also, there is a nice <a href="http://www.w3schools.com/tags/ref_colorpicker.asp">color picker</a> giving you the hexademical values.</p>
 <p>Once you have added the new layer, and you probably want to do two things:
 1. Add the layer as overlay to the map by activating it in the layer menu in the upper right of the spectra area.
