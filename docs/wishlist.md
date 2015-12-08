@@ -29,3 +29,8 @@ The workspace is completely stored in browser. When the site is reloaded all dat
 - spec icon plotter (fits->png)
 - data layer composer
 - SOM coordinate - SDSS id mapping tool
+
+## storage backends
+Use a database instead of files:
+- couchdb
+- postgresql

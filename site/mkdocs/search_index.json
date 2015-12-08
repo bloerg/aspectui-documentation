@@ -37,7 +37,7 @@
         }, 
         {
             "location": "/wishlist/", 
-            "text": "whish list (in no particular order)\n\n\ncontext menu\n\n\nA context menu on right button mouse click with:\n- show/don't show spec icons of already inspected (i.e. clicked) objects\n- show/don't show spec icons of objects in selection layer\n\n\nmarker for objects inspected at explorer\n\n\nThis could be a letter, a cross or a colored margin around the spectrum.\n\n\ncolor coding\n\n\nBe able to type functions that compute icon colors from numeric datalayer values.\n\n\nother User interface improvements\n\n\n\n\nin selections don't collect empty neurons\n\n\nautoconfiguration for colored backgrounds like redshift layer\n\n\nalways plot spectra in a color complementary to the background for better visiblity\n\n\nin all color input fields, provide a color picker\n\n\n\n\nsave/load button to save and restore the whole work space for later use\n\n\nThe workspace is completely stored in browser. When the site is reloaded all data is lost. It is already possible to export and later reimport selection layers. However, to proceed at a later time it would be convenient to save and restore the state of the whole workspace at once.\n\n\ndocumentation of the command line tools\n\n\n\n\nspec icon plotter (fits-\npng)\n\n\ndata layer composer\n\n\nSOM coordinate - SDSS id mapping tool", 
+            "text": "whish list (in no particular order)\n\n\ncontext menu\n\n\nA context menu on right button mouse click with:\n- show/don't show spec icons of already inspected (i.e. clicked) objects\n- show/don't show spec icons of objects in selection layer\n\n\nmarker for objects inspected at explorer\n\n\nThis could be a letter, a cross or a colored margin around the spectrum.\n\n\ncolor coding\n\n\nBe able to type functions that compute icon colors from numeric datalayer values.\n\n\nother User interface improvements\n\n\n\n\nin selections don't collect empty neurons\n\n\nautoconfiguration for colored backgrounds like redshift layer\n\n\nalways plot spectra in a color complementary to the background for better visiblity\n\n\nin all color input fields, provide a color picker\n\n\n\n\nsave/load button to save and restore the whole work space for later use\n\n\nThe workspace is completely stored in browser. When the site is reloaded all data is lost. It is already possible to export and later reimport selection layers. However, to proceed at a later time it would be convenient to save and restore the state of the whole workspace at once.\n\n\ndocumentation of the command line tools\n\n\n\n\nspec icon plotter (fits-\npng)\n\n\ndata layer composer\n\n\nSOM coordinate - SDSS id mapping tool\n\n\n\n\nstorage backends\n\n\nUse a database instead of files:\n- couchdb\n- postgresql", 
             "title": "Features to come"
         }, 
         {
@@ -74,6 +74,11 @@
             "location": "/wishlist/#documentation-of-the-command-line-tools", 
             "text": "spec icon plotter (fits- png)  data layer composer  SOM coordinate - SDSS id mapping tool", 
             "title": "documentation of the command line tools"
+        }, 
+        {
+            "location": "/wishlist/#storage-backends", 
+            "text": "Use a database instead of files:\n- couchdb\n- postgresql", 
+            "title": "storage backends"
         }, 
         {
             "location": "/contact/", 
