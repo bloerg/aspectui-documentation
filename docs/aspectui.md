@@ -1,4 +1,4 @@
-# User Interface documentation
+# user Interface documentation
 
 ## map view
 The screenshot below shows the most prominent features of the user interface. Most of the screen space is filled by the spectra map. It is composed of icons represenenting downscaled [SDSS](http://sdss3.org) spectra. Left of the map can be found a tool to import and export data sets which would be highlighted in the map. Above the map a tool for coordinate input allows to jump to a certain point in the Kohonen Map.

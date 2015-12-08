@@ -1,4 +1,4 @@
-# Welcome
+# welcome
 
 This is the documentation to ASPECT-ui, a user interface for spectra maps computed with [ASPECT](http://www.tls-tautenburg.de/TLS/fileadmin/forschung/meus/ASPECT/ASPECT.html).
 
