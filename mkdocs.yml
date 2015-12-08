@@ -1,8 +1,8 @@
 site_name: ASPECT-ui documentation
 pages:
-- Home: index.md
-- User Interface: aspectui.md
-- Features to come: wishlist.md
-- Contact: contact.md
+- home: index.md
+- user interface: aspectui.md
+- features to come: wishlist.md
+- contact: contact.md
 theme: readthedocs
 
