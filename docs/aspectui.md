@@ -1,35 +1,35 @@
 # User Interface documentation
 
-## Map View
+## map view
 The screenshot below shows the most prominent features of the user interface. Most of the screen space is filled by the spectra map. It is composed of icons represenenting downscaled [SDSS](http://sdss3.org) spectra. Left of the map can be found a tool to import and export data sets which would be highlighted in the map. Above the map a tool for coordinate input allows to jump to a certain point in the Kohonen Map.
 
 ![Basic ASPECT-ui screenshot](img/screenshot_aspectui_basic.png)
 
 
-## Basic use
+## basic use
 The user interface is a web application making use of software intended to create responsive streetmaps like for instance [Openstreetmap](http://www.openstreetmap.org). Thus it allows similar interactions. 
 
-### Panning
+### panning
 Use your mouse to pan the map around. To this end click and hold down your left mouse button somewhere on the spectra map and move your mouse. As an Alternative use your keyboards arrow keys to move the map around.
  
 ![panning illustration](img/animation_panning.gif)
 
-### Zooming
+### zooming
 There are several ways to zoom in and out of the spectra map. You can click the Plus and Minus buttons on the top left of the spectra area to zoom in and out. Also, turning mousewheel or using your touchpad's scroll function with the mouse cursor over the spectra area will trigger the change of zoom level.
  
 ![panning illustration](img/animation_zoom.gif)
 
-### Add and remove Layers
+### add and remove layers
 There is a collapsed layer menu on the top right of the spectra area. It allows you to add and remove more layers to the map view. For example you could have a color coded layer for the red shift of your spectra objects.
 
 ![redshift layer illustration](img/animation_redshift.gif)
 
-### Changing colors
+### changing colors
 If in the upper right layer menu the *colored background* layer is selected, you can change colors of the spec icons and their background. To this end type colors in [hexadecimal notation](http://www.w3schools.com/html/html_colorvalues.asp) or just use color words like *red*, *green*, *black* etc. Also, there is a nice [color picker](http://www.w3schools.com/tags/ref_colorpicker.asp) giving you the hexademical values.
 
 ![explore illustration](img/animation_colors.gif)
 
-## Working with the map
+## working with the map
 
 ### Inspect objects at the SDSS
 Clicking on a spec icon in the map opens a popup with extra information regarding the clicked object. There can be different data in the popup, however there is at least the link to the [SDSS Explorer](http://skyserver.sdss.org/dr12/en/tools/explore/Summary.aspx?) homepage of the corresponding object. If you are looking for a detailed spectrum and metadata this is the place to go.
@@ -38,7 +38,7 @@ Clicking on the Explorer link adds the clicked icon to the user defined layer *E
 
 ![explore illustration](img/animation_explore.gif)
 
-### Select objects for later export
+### select objects for later export
 On the upper left of the spectra area, below the Plus/Minus zoom control you can find areal and single object selection tools. Use them to make sets of interesting objects for later export or illustration of object positions in the map. 
 
 The objects you select are stored in *user selection layers*. There is alway one such layer named *default*. As soon as you switch it on in the layer control menu in the upper right of the spectra area, you can start to select objects. You will see, that they are indicated with color overlay immediately. 
@@ -69,7 +69,7 @@ som_x,som_y,mjd,plateid,fiberid
 19,20,56046,5173,883
 ```
 
-### Add more user defined layers
+### add more user defined layers
 You can add more user defined layers. You would want to do this for example if you needed to distinguish between two selections by color or to keep different types of objects apart.
 
 To add a new layer click *add layer* on the left side. You will be asked for a *layer name*, which can be descriptive like *Interesting Objects of Type 1* or short like *other*. Also you can set a color for the indication of selected objects. Use either color words like *red*, *black*, *green* and so on or [html colors in hexadecimal notation](http://www.w3schools.com/html/html_colorvalues.asp). Also, there is a nice [color picker](http://www.w3schools.com/tags/ref_colorpicker.asp) giving you the hexademical values.
@@ -80,7 +80,7 @@ Once you have added the new layer, and you probably want to do two things:
 
 Then start to add objects to the newly created layer by using the selection tools in the upper left of the spectra map.
 
-### Color Overlay
+### color overlay
 ASPECT-ui allows to import csv-data as layers. Just prepare a [csv](https://en.wikipedia.org/wiki/Comma-separated_values) data set. It has to have headers with at least x and y coordinates in the Kohonen Map space or [MJD](http://www.sdss.org/dr12/help/glossary/#mjd), [plate id](http://www.sdss.org/dr12/help/glossary/#plate), [fiber id](http://www.sdss.org/dr12/help/glossary/#fiber). 
 
 The expected names of the csv fields are `som_x` for the x coordinate in the Kohonen Map, `som_y` for the y coordinate, `mjd` for SDSS MJD, `plateid` for SDSS plate id and `fiberid` for SDSS fiber id.

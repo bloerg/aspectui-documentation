@@ -1,24 +1,31 @@
-# Whish list, i.e. features to come in future
+# whish list (in no particular order)
 
-## Context menu
+## context menu
 
 A context menu on right button mouse click with:
 - show/don't show spec icons of already inspected (i.e. clicked) objects
 - show/don't show spec icons of objects in selection layer
 
 
-## Marker for objects inspected at explorer
+## marker for objects inspected at explorer
 
 This could be a letter, a cross or a colored margin around the spectrum.
 
-## Other User inteface improvements
+## color coding
+
+Be able to type functions that compute icon colors from numeric datalayer values.
+
+## other User interface improvements
 - in selections don't collect empty neurons
 - autoconfiguration for colored backgrounds like redshift layer
 - always plot spectra in a color complementary to the background for better visiblity
+- in all color input fields, provide a color picker
 
-## Save/Load button to save and restore the whole work space for later use
+## save/load button to save and restore the whole work space for later use
 
 The workspace is completely stored in browser. When the site is reloaded all data is lost. It is already possible to export and later reimport selection layers. However, to proceed at a later time it would be convenient to save and restore the state of the whole workspace at once.
 
-## Documentation of the command line tools
-
+## documentation of the command line tools
+- spec icon plotter (fits->png)
+- data layer composer
+- SOM coordinate - SDSS id mapping tool
