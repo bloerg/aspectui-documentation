@@ -2,12 +2,12 @@
     "docs": [
         {
             "location": "/", 
-            "text": "welcome\n\n\nThis is the documentation to ASPECT-ui, a user interface for spectra maps computed with \nASPECT\n.\n\n\nTo see an application of the user interface go to the \nspectra map of about 1 million SDSS DR7 spectra\n.\n\n\nWhile ASPECT is a software developed to process large amounts of spectra into \nSelf Organizing Maps (or Kohonen Maps)\n, ASPECT-ui is meant to give an easy start on working with the computed output.\n\n\nASPECT-ui comprises a responsive web browser user interface, making use of \nleaflet.js\n for visualisation of Kohonen Maps of spectra. To this end representative icons of \nSDSS\n spectra are composed and resized to different detail levels. The resulting images are then used to make a zoomable and pannable representation of the spectra Kohonen Map.\n\n\nThe user interface is accompanied by a set of command line tools which make it easy to generate an ASPECT-ui instance for a computed map.", 
+            "text": "welcome\n\n\nThis is the documentation to ASPECT-ui, a user interface for spectra maps computed with \nASPECT\n.\n\n\nWhile ASPECT is a software developed to process large amounts of spectra into \nSelf Organizing Maps (or Kohonen Maps)\n, ASPECT-ui is meant to give an easy start on working with the computed output.\n\n\nTo see an application of the user interface go to the \nspectra map of about 1 million SDSS DR7 spectra\n.\n\n\nASPECT-ui comprises a responsive web browser user interface, making use of \nleaflet.js\n for visualisation of Kohonen Maps of spectra. To this end representative icons of \nSDSS\n spectra are composed and resized to different detail levels. The resulting images are then used to make a zoomable and pannable representation of the spectra Kohonen Map.\n\n\nThe user interface is accompanied by a set of command line tools which make it easy to generate an ASPECT-ui instance for a computed map.", 
             "title": "home"
         }, 
         {
             "location": "/#welcome", 
-            "text": "This is the documentation to ASPECT-ui, a user interface for spectra maps computed with  ASPECT .  To see an application of the user interface go to the  spectra map of about 1 million SDSS DR7 spectra .  While ASPECT is a software developed to process large amounts of spectra into  Self Organizing Maps (or Kohonen Maps) , ASPECT-ui is meant to give an easy start on working with the computed output.  ASPECT-ui comprises a responsive web browser user interface, making use of  leaflet.js  for visualisation of Kohonen Maps of spectra. To this end representative icons of  SDSS  spectra are composed and resized to different detail levels. The resulting images are then used to make a zoomable and pannable representation of the spectra Kohonen Map.  The user interface is accompanied by a set of command line tools which make it easy to generate an ASPECT-ui instance for a computed map.", 
+            "text": "This is the documentation to ASPECT-ui, a user interface for spectra maps computed with  ASPECT .  While ASPECT is a software developed to process large amounts of spectra into  Self Organizing Maps (or Kohonen Maps) , ASPECT-ui is meant to give an easy start on working with the computed output.  To see an application of the user interface go to the  spectra map of about 1 million SDSS DR7 spectra .  ASPECT-ui comprises a responsive web browser user interface, making use of  leaflet.js  for visualisation of Kohonen Maps of spectra. To this end representative icons of  SDSS  spectra are composed and resized to different detail levels. The resulting images are then used to make a zoomable and pannable representation of the spectra Kohonen Map.  The user interface is accompanied by a set of command line tools which make it easy to generate an ASPECT-ui instance for a computed map.", 
             "title": "welcome"
         }, 
         {
@@ -81,13 +81,43 @@
             "title": "storage backends"
         }, 
         {
+            "location": "/applications/", 
+            "text": "1 million SDSS DR7 spectra\n\n\nspectra map of about 1 million SDSS DR7 spectra\n\n\nstellar spectra from SDSS DR12\n\n\nsample of stellar spectra from SDSS DR12", 
+            "title": "applications"
+        }, 
+        {
+            "location": "/applications/#1-million-sdss-dr7-spectra", 
+            "text": "spectra map of about 1 million SDSS DR7 spectra", 
+            "title": "1 million SDSS DR7 spectra"
+        }, 
+        {
+            "location": "/applications/#stellar-spectra-from-sdss-dr12", 
+            "text": "sample of stellar spectra from SDSS DR12", 
+            "title": "stellar spectra from SDSS DR12"
+        }, 
+        {
+            "location": "/related_tools/", 
+            "text": "related tools\n\n\nzshift\n\n\nzshift\n is a tool to manually determine redshifts of spectra that were faulty redshifted by the \nSDSS pipeline\n.\n\n\nThe tool is mainly inspired by the \ninteractive spectra view\n of the \nSDSS Sky-Server\n with added functionality for dynamic redshift change and the according redraw of the spectra lines in the background. The changes are commented in the source code of the zshift home page.\n\n\n\n\nbasic use\n\n\nClick on the button named \"open fits file\" in the top right corner. Then find your fits file in your file system. Be aware that currently only new spec files from the SDSS (i.e. with names like spec-plateid-mjd-fiberid.fits) can be loaded. Those are the spec files of SDSS DR9 and later. If you want to load older spSpec-files, e.g. from SDSS DR7 and before, you have to find those in the \nspectra search\n using MJD, plate id and fiber id of the spectrum.\n\n\nAfter loading the spectrum from your fits file should be plotted. Then start shoving around the slider beneath the plotting area. In the background the spec lines should start to move according to the redshift change.", 
+            "title": "related tools"
+        }, 
+        {
+            "location": "/related_tools/#related-tools", 
+            "text": "", 
+            "title": "related tools"
+        }, 
+        {
+            "location": "/related_tools/#zshift", 
+            "text": "zshift  is a tool to manually determine redshifts of spectra that were faulty redshifted by the  SDSS pipeline .  The tool is mainly inspired by the  interactive spectra view  of the  SDSS Sky-Server  with added functionality for dynamic redshift change and the according redraw of the spectra lines in the background. The changes are commented in the source code of the zshift home page.   basic use  Click on the button named \"open fits file\" in the top right corner. Then find your fits file in your file system. Be aware that currently only new spec files from the SDSS (i.e. with names like spec-plateid-mjd-fiberid.fits) can be loaded. Those are the spec files of SDSS DR9 and later. If you want to load older spSpec-files, e.g. from SDSS DR7 and before, you have to find those in the  spectra search  using MJD, plate id and fiber id of the spectrum.  After loading the spectrum from your fits file should be plotted. Then start shoving around the slider beneath the plotting area. In the background the spec lines should start to move according to the redshift change.", 
+            "title": "zshift"
+        }, 
+        {
             "location": "/contact/", 
-            "text": "contact information\n\n\n\n\nAick in der Au\n - developer of ASPECT (A Spectra Clustering Tool)\n\n\nJ\u00f6rg Br\u00fcnecke\n - developer of \nASPECT-ui\n and the related aspect-tools.\n\n\nHelmut Meusinger\n at \nTh\u00fcringer Landessternwarte Tautenburg", 
+            "text": "contact information\n\n\n\n\nJ\u00f6rg Br\u00fcnecke\n - developer of \nASPECT-ui\n and the related aspect-tools\n\n\nAick in der Au\n - developer of ASPECT (A Spectra Clustering Tool)\n\n\nHelmut Meusinger\n at \nTh\u00fcringer Landessternwarte Tautenburg", 
             "title": "contact"
         }, 
         {
             "location": "/contact/#contact-information", 
-            "text": "Aick in der Au  - developer of ASPECT (A Spectra Clustering Tool)  J\u00f6rg Br\u00fcnecke  - developer of  ASPECT-ui  and the related aspect-tools.  Helmut Meusinger  at  Th\u00fcringer Landessternwarte Tautenburg", 
+            "text": "J\u00f6rg Br\u00fcnecke  - developer of  ASPECT-ui  and the related aspect-tools  Aick in der Au  - developer of ASPECT (A Spectra Clustering Tool)  Helmut Meusinger  at  Th\u00fcringer Landessternwarte Tautenburg", 
             "title": "contact information"
         }
     ]

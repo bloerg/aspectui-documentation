@@ -3,6 +3,8 @@ pages:
 - home: index.md
 - user interface: aspectui.md
 - features to come: wishlist.md
+- applications: applications.md
+- related tools: related_tools.md
 - contact: contact.md
 theme: readthedocs
 
