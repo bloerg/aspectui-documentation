@@ -12,3 +12,10 @@ The tool is mainly inspired by the [interactive spectra view](http://dr12.sdss3.
 Click on the button named "open fits file" in the top right corner. Then find your fits file in your file system. Be aware that currently only new spec files from the SDSS (i.e. with names like spec-plateid-mjd-fiberid.fits) can be loaded. Those are the spec files of SDSS DR9 and later. If you want to load older spSpec-files, e.g. from SDSS DR7 and before, you have to find those in the [spectra search](http://dr12.sdss3.org/basicSpectra) using MJD, plate id and fiber id of the spectrum.
 
 After loading the spectrum from your fits file should be plotted. Then start shoving around the slider beneath the plotting area. In the background the spec lines should start to move according to the redshift change.
+
+### third party code
+* [dygraphs](http://dygraphs.com) for plotting
+* [fitsjs](https://github.com/astrojs/fitsjs/) for fits file handling
+* [jquery](http://jquery.com/) for convenience
+* [bootstrap](http://getbootstrap.com) for the looks
+* some elements and design from the [SDSS interactive spectrum tool](http://dr12.sdss3.org/spectrumDetail?plateid=1251&mjd=52964&fiber=194) 
