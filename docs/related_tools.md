@@ -13,6 +13,9 @@ Click on the button named "open fits file" in the top right corner. Then find yo
 
 After loading the spectrum from your fits file should be plotted. Then start shoving around the slider beneath the plotting area. In the background the spec lines should start to move according to the redshift change.
 
+### redshift fine tuning
+Click on the handle of the redshift slider, then use your keyboard's left/right arrow keys. This gives you +/- 0.001 steps when adjusting the redshift.
+
 ### third party code
 * [dygraphs](http://dygraphs.com) for plotting
 * [fitsjs](https://github.com/astrojs/fitsjs/) for fits file handling
