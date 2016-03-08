@@ -134,12 +134,13 @@
               
                 <h1 id="related-tools">related tools</h1>
 <h2 id="zshift">zshift</h2>
-<p><a href="https://aspect-ui.de/zshift/">zshift</a> is a tool to manually determine redshifts of spectra that were faulty redshifted by the <a href="http://www.sdss.org/dr12/spectro/pipeline/">SDSS pipeline</a>.</p>
+<p><a href="https://aspect-ui.de/zshift/">zshift</a> zshift is a tool to manually check or determine redshifts of spectra.</p>
 <p>The tool is mainly inspired by the <a href="http://dr12.sdss3.org/spectrumDetail?plateid=1251&amp;mjd=52964&amp;fiber=194">interactive spectra view</a> of the <a href="http://skyserver.sdss.org/dr12/en/home.aspx">SDSS Sky-Server</a> with added functionality for dynamic redshift change and the according redraw of the spectra lines in the background. The changes are commented in the source code of the zshift home page.</p>
 <p><img alt="zshift screenshot" src="../img/screenshot_zshift.png" /></p>
 <h3 id="basic-use">basic use</h3>
 <p>Click on the button named "open fits file" in the top right corner. Then find your fits file in your file system. Be aware that currently only new spec files from the SDSS (i.e. with names like spec-plateid-mjd-fiberid.fits) can be loaded. Those are the spec files of SDSS DR9 and later. If you want to load older spSpec-files, e.g. from SDSS DR7 and before, you have to find those in the <a href="http://dr12.sdss3.org/basicSpectra">spectra search</a> using MJD, plate id and fiber id of the spectrum.</p>
-<p>After loading the spectrum from your fits file should be plotted. Then start shoving around the slider beneath the plotting area. In the background the spec lines should start to move according to the redshift change.</p>
+<p>After loading the fits file the spectrum should be plotted. Then start shoving around the slider beneath the plotting area. In the background the spec lines should start to move according to the redshift change.</p>
+<p>Alternatively, spectra can be loaded via setting of URL parameters without a fits file. To this end substitude the values of the parameters <em>mjd</em>, <em>plateid</em> and <em>fiber</em> in the URL <a href="https://aspect-ui.de/zshift/zshift.html?mjd=55359&amp;fiber=408&amp;plateid=4055">https://aspect-ui.de/zshift/zshift.html?mjd=55359&amp;fiber=408&amp;plateid=4055</a></p>
 <h3 id="redshift-fine-tuning">redshift fine tuning</h3>
 <p>Click on the handle of the redshift slider, then use your keyboard's left/right arrow keys. This gives you +/- 0.001 steps when adjusting the redshift.</p>
 <h3 id="third-party-code">third party code</h3>
