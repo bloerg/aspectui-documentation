@@ -361,4 +361,4 @@ Link to the map|lower redshift limit|upper redshift limit
 [go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin358/web/map.html)|6.969661|6.989741
 [go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin359/web/map.html)|6.989741|7.009743
 [go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin360/web/map.html)|7.009743|7.031674
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin361/web/map.html)||
+
