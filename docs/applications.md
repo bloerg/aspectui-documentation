@@ -11,4 +11,4 @@
 
 ## SDSS DR12 quasar spectra clustered in 360 redshift bins
 
-The quasars were clustered in several hundred redshift bins. For the sake of clarity there is a dedicated [page containing the link to each bin](applications/QSO_clustering_redshift_mapping.md).
+The quasars were clustered in several hundred redshift bins. To keep this page clear there is a dedicated [page containing the link to each bin](applications/QSO_clustering_redshift_mapping.md).
