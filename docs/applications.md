@@ -9,3 +9,6 @@
 
   * [sample 3 of stellar spectra from SDSS DR12 ](http://aspect-ui.de/SDSSDR12/STARS_northerngalacticcap/)
 
+## SDSS DR12 quasar spectra clustered in 360 redshift bins
+
+The quasars were clustered in several hundred redshift bins. For the sake of clarity there is a dedicated [page containing the link to each bin](applications/QSO_clustering_redshift_mapping.md).
