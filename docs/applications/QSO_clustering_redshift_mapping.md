@@ -1,364 +1,364 @@
 Link to the map|lower redshift limit|upper redshift limit
 ---|---|---
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin0/web/map.html)|0.000230285|0.02023449
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin1/web/map.html)|0.02023449|0.04023816
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin2/web/map.html)|0.04023816|0.06024171
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin3/web/map.html)|0.06024171|0.08025946
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin4/web/map.html)|0.08025946|0.1002609
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin5/web/map.html)|0.1002609|0.120262
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin6/web/map.html)|0.120262|0.140269
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin7/web/map.html)|0.140269|0.160279
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin8/web/map.html)|0.160279|0.1802793
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin9/web/map.html)|0.1802793|0.2002796
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin10/web/map.html)|0.2002796|0.2202954
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin11/web/map.html)|0.2202954|0.2402959
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin12/web/map.html)|0.2402959|0.2602963
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin13/web/map.html)|0.2602963|0.2803069
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin14/web/map.html)|0.2803069|0.3003155
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin15/web/map.html)|0.3003155|0.3203386
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin16/web/map.html)|0.3203386|0.3403622
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin17/web/map.html)|0.3403622|0.3603635
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin18/web/map.html)|0.3603635|0.3803675
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin19/web/map.html)|0.3803675|0.4003676
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin20/web/map.html)|0.4003676|0.420372
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin21/web/map.html)|0.420372|0.4403763
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin22/web/map.html)|0.4403763|0.4603805
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin23/web/map.html)|0.4603805|0.4803931
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin24/web/map.html)|0.4803931|0.5003945
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin25/web/map.html)|0.5003945|0.5203953
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin26/web/map.html)|0.5203953|0.5403976
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin27/web/map.html)|0.5403976|0.5604001
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin28/web/map.html)|0.5604001|0.5804049
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin29/web/map.html)|0.5804049|0.6004057
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin30/web/map.html)|0.6004057|0.620411
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin31/web/map.html)|0.620411|0.640412
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin32/web/map.html)|0.640412|0.660413
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin33/web/map.html)|0.660413|0.6804137
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin34/web/map.html)|0.6804137|0.7004161
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin35/web/map.html)|0.7004161|0.7204322
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin36/web/map.html)|0.7204322|0.7393005
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin37/web/map.html)|0.7393005|0.7593029
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin38/web/map.html)|0.7593029|0.7793069
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin39/web/map.html)|0.7793069|0.799309
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin40/web/map.html)|0.799309|0.81898
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin41/web/map.html)|0.81898|0.8389802
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin42/web/map.html)|0.8389802|0.8574764
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin43/web/map.html)|0.8574764|0.8775154
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin44/web/map.html)|0.8775154|0.8975242
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin45/web/map.html)|0.8975242|0.917527
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin46/web/map.html)|0.917527|0.9375274
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin47/web/map.html)|0.9375274|0.9575281
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin48/web/map.html)|0.9575281|0.9775299
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin49/web/map.html)|0.9775299|0.9975371
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin50/web/map.html)|0.9975371|1.017538
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin51/web/map.html)|1.017538|1.035444
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin52/web/map.html)|1.035444|1.048447
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin53/web/map.html)|1.048447|1.064821
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin54/web/map.html)|1.064821|1.080958
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin55/web/map.html)|1.080958|1.10096
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin56/web/map.html)|1.10096|1.120961
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin57/web/map.html)|1.120961|1.140678
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin58/web/map.html)|1.140678|1.156433
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin59/web/map.html)|1.156433|1.169903
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin60/web/map.html)|1.169903|1.183411
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin61/web/map.html)|1.183411|1.200707
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin62/web/map.html)|1.200707|1.219494
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin63/web/map.html)|1.219494|1.23686
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin64/web/map.html)|1.23686|1.25529
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin65/web/map.html)|1.25529|1.273262
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin66/web/map.html)|1.273262|1.29064
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin67/web/map.html)|1.29064|1.310647
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin68/web/map.html)|1.310647|1.330653
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin69/web/map.html)|1.330653|1.350679
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin70/web/map.html)|1.350679|1.370683
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin71/web/map.html)|1.370683|1.390684
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin72/web/map.html)|1.390684|1.410694
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin73/web/map.html)|1.410694|1.430694
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin74/web/map.html)|1.430694|1.450701
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin75/web/map.html)|1.450701|1.470726
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin76/web/map.html)|1.470726|1.490726
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin77/web/map.html)|1.490726|1.510726
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin78/web/map.html)|1.510726|1.529567
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin79/web/map.html)|1.529567|1.545914
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin80/web/map.html)|1.545914|1.562761
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin81/web/map.html)|1.562761|1.581012
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin82/web/map.html)|1.581012|1.599833
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin83/web/map.html)|1.599833|1.619045
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin84/web/map.html)|1.619045|1.639046
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin85/web/map.html)|1.639046|1.65905
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin86/web/map.html)|1.65905|1.679056
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin87/web/map.html)|1.679056|1.699058
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin88/web/map.html)|1.699058|1.719068
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin89/web/map.html)|1.719068|1.739083
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin90/web/map.html)|1.739083|1.759088
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin91/web/map.html)|1.759088|1.779101
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin92/web/map.html)|1.779101|1.799103
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin93/web/map.html)|1.799103|1.819105
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin94/web/map.html)|1.819105|1.839111
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin95/web/map.html)|1.839111|1.859114
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin96/web/map.html)|1.859114|1.879115
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin97/web/map.html)|1.879115|1.899115
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin98/web/map.html)|1.899115|1.919117
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin99/web/map.html)|1.919117|1.939119
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin100/web/map.html)|1.939119|1.959121
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin101/web/map.html)|1.959121|1.979124
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin102/web/map.html)|1.979124|1.999163
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin103/web/map.html)|1.999163|2.019177
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin104/web/map.html)|2.019177|2.039179
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin105/web/map.html)|2.039179|2.059179
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin106/web/map.html)|2.059179|2.07918
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin107/web/map.html)|2.07918|2.099184
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin108/web/map.html)|2.099184|2.119193
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin109/web/map.html)|2.119193|2.139193
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin110/web/map.html)|2.139193|2.157961
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin111/web/map.html)|2.157961|2.173692
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin112/web/map.html)|2.173692|2.188724
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin113/web/map.html)|2.188724|2.202915
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin114/web/map.html)|2.202915|2.216449
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin115/web/map.html)|2.216449|2.229072
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin116/web/map.html)|2.229072|2.24169
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin117/web/map.html)|2.24169|2.25422
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin118/web/map.html)|2.25422|2.266309
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin119/web/map.html)|2.266309|2.278718
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin120/web/map.html)|2.278718|2.291254
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin121/web/map.html)|2.291254|2.30369
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin122/web/map.html)|2.30369|2.316546
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin123/web/map.html)|2.316546|2.329596
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin124/web/map.html)|2.329596|2.343082
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin125/web/map.html)|2.343082|2.35669
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin126/web/map.html)|2.35669|2.370809
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin127/web/map.html)|2.370809|2.385065
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin128/web/map.html)|2.385065|2.399232
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin129/web/map.html)|2.399232|2.413646
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin130/web/map.html)|2.413646|2.428634
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin131/web/map.html)|2.428634|2.445055
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin132/web/map.html)|2.445055|2.462035
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin133/web/map.html)|2.462035|2.479828
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin134/web/map.html)|2.479828|2.499074
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin135/web/map.html)|2.499074|2.517853
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin136/web/map.html)|2.517853|2.536479
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin137/web/map.html)|2.536479|2.55648
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin138/web/map.html)|2.55648|2.576489
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin139/web/map.html)|2.576489|2.59649
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin140/web/map.html)|2.59649|2.616491
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin141/web/map.html)|2.616491|2.636493
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin142/web/map.html)|2.636493|2.656498
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin143/web/map.html)|2.656498|2.676506
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin144/web/map.html)|2.676506|2.696509
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin145/web/map.html)|2.696509|2.716513
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin146/web/map.html)|2.716513|2.736513
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin147/web/map.html)|2.736513|2.756529
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin148/web/map.html)|2.756529|2.776529
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin149/web/map.html)|2.776529|2.796542
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin150/web/map.html)|2.796542|2.816545
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin151/web/map.html)|2.816545|2.836546
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin152/web/map.html)|2.836546|2.856549
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin153/web/map.html)|2.856549|2.876554
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin154/web/map.html)|2.876554|2.896555
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin155/web/map.html)|2.896555|2.916572
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin156/web/map.html)|2.916572|2.936581
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin157/web/map.html)|2.936581|2.956582
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin158/web/map.html)|2.956582|2.976588
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin159/web/map.html)|2.976588|2.996606
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin160/web/map.html)|2.996606|3.016606
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin161/web/map.html)|3.016606|3.036612
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin162/web/map.html)|3.036612|3.056624
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin163/web/map.html)|3.056624|3.076626
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin164/web/map.html)|3.076626|3.096632
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin165/web/map.html)|3.096632|3.116636
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin166/web/map.html)|3.116636|3.136643
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin167/web/map.html)|3.136643|3.156652
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin168/web/map.html)|3.156652|3.176659
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin169/web/map.html)|3.176659|3.196661
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin170/web/map.html)|3.196661|3.216666
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin171/web/map.html)|3.216666|3.236666
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin172/web/map.html)|3.236666|3.256691
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin173/web/map.html)|3.256691|3.276706
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin174/web/map.html)|3.276706|3.296735
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin175/web/map.html)|3.296735|3.316759
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin176/web/map.html)|3.316759|3.336798
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin177/web/map.html)|3.336798|3.356801
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin178/web/map.html)|3.356801|3.376847
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin179/web/map.html)|3.376847|3.396886
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin180/web/map.html)|3.396886|3.416888
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin181/web/map.html)|3.416888|3.436891
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin182/web/map.html)|3.436891|3.456929
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin183/web/map.html)|3.456929|3.476949
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin184/web/map.html)|3.476949|3.49699
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin185/web/map.html)|3.49699|3.516997
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin186/web/map.html)|3.516997|3.537099
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin187/web/map.html)|3.537099|3.557117
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin188/web/map.html)|3.557117|3.577133
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin189/web/map.html)|3.577133|3.59723
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin190/web/map.html)|3.59723|3.61726
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin191/web/map.html)|3.61726|3.637334
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin192/web/map.html)|3.637334|3.657383
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin193/web/map.html)|3.657383|3.677383
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin194/web/map.html)|3.677383|3.697446
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin195/web/map.html)|3.697446|3.717463
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin196/web/map.html)|3.717463|3.737535
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin197/web/map.html)|3.737535|3.757544
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin198/web/map.html)|3.757544|3.777548
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin199/web/map.html)|3.777548|3.797588
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin200/web/map.html)|3.797588|3.817605
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin201/web/map.html)|3.817605|3.83763
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin202/web/map.html)|3.83763|3.857666
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin203/web/map.html)|3.857666|3.877675
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin204/web/map.html)|3.877675|3.897681
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin205/web/map.html)|3.897681|3.917708
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin206/web/map.html)|3.917708|3.937716
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin207/web/map.html)|3.937716|3.957734
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin208/web/map.html)|3.957734|3.977786
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin209/web/map.html)|3.977786|3.99783
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin210/web/map.html)|3.99783|4.017859
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin211/web/map.html)|4.017859|4.037868
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin212/web/map.html)|4.037868|4.057875
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin213/web/map.html)|4.057875|4.077881
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin214/web/map.html)|4.077881|4.097909
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin215/web/map.html)|4.097909|4.11797
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin216/web/map.html)|4.11797|4.137994
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin217/web/map.html)|4.137994|4.157999
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin218/web/map.html)|4.157999|4.17806
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin219/web/map.html)|4.17806|4.198105
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin220/web/map.html)|4.198105|4.218222
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin221/web/map.html)|4.218222|4.238431
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin222/web/map.html)|4.238431|4.258474
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin223/web/map.html)|4.258474|4.278562
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin224/web/map.html)|4.278562|4.298584
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin225/web/map.html)|4.298584|4.31872
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin226/web/map.html)|4.31872|4.338746
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin227/web/map.html)|4.338746|4.358881
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin228/web/map.html)|4.358881|4.378887
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin229/web/map.html)|4.378887|4.398888
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin230/web/map.html)|4.398888|4.418923
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin231/web/map.html)|4.418923|4.439064
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin232/web/map.html)|4.439064|4.459112
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin233/web/map.html)|4.459112|4.479146
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin234/web/map.html)|4.479146|4.499358
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin235/web/map.html)|4.499358|4.519414
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin236/web/map.html)|4.519414|4.539505
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin237/web/map.html)|4.539505|4.559506
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin238/web/map.html)|4.559506|4.579608
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin239/web/map.html)|4.579608|4.59968
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin240/web/map.html)|4.59968|4.619888
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin241/web/map.html)|4.619888|4.639975
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin242/web/map.html)|4.639975|4.660202
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin243/web/map.html)|4.660202|4.680215
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin244/web/map.html)|4.680215|4.700249
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin245/web/map.html)|4.700249|4.720311
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin246/web/map.html)|4.720311|4.740353
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin247/web/map.html)|4.740353|4.760377
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin248/web/map.html)|4.760377|4.780385
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin249/web/map.html)|4.780385|4.800748
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin250/web/map.html)|4.800748|4.820817
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin251/web/map.html)|4.820817|4.841102
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin252/web/map.html)|4.841102|4.861109
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin253/web/map.html)|4.861109|4.881133
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin254/web/map.html)|4.881133|4.901137
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin255/web/map.html)|4.901137|4.921203
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin256/web/map.html)|4.921203|4.941346
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin257/web/map.html)|4.941346|4.961361
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin258/web/map.html)|4.961361|4.98142
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin259/web/map.html)|4.98142|5.001445
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin260/web/map.html)|5.001445|5.021494
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin261/web/map.html)|5.021494|5.041574
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin262/web/map.html)|5.041574|5.061728
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin263/web/map.html)|5.061728|5.082006
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin264/web/map.html)|5.082006|5.10214
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin265/web/map.html)|5.10214|5.122185
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin266/web/map.html)|5.122185|5.142395
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin267/web/map.html)|5.142395|5.162397
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin268/web/map.html)|5.162397|5.182523
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin269/web/map.html)|5.182523|5.202724
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin270/web/map.html)|5.202724|5.222739
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin271/web/map.html)|5.222739|5.242846
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin272/web/map.html)|5.242846|5.262959
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin273/web/map.html)|5.262959|5.283024
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin274/web/map.html)|5.283024|5.303113
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin275/web/map.html)|5.303113|5.323205
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin276/web/map.html)|5.323205|5.343224
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin277/web/map.html)|5.343224|5.363233
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin278/web/map.html)|5.363233|5.383312
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin279/web/map.html)|5.383312|5.403463
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin280/web/map.html)|5.403463|5.42347
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin281/web/map.html)|5.42347|5.443492
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin282/web/map.html)|5.443492|5.463662
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin283/web/map.html)|5.463662|5.483757
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin284/web/map.html)|5.483757|5.50396
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin285/web/map.html)|5.50396|5.524026
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin286/web/map.html)|5.524026|5.544034
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin287/web/map.html)|5.544034|5.564045
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin288/web/map.html)|5.564045|5.584154
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin289/web/map.html)|5.584154|5.604154
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin290/web/map.html)|5.604154|5.624508
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin291/web/map.html)|5.624508|5.644548
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin292/web/map.html)|5.644548|5.664596
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin293/web/map.html)|5.664596|5.68462
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin294/web/map.html)|5.68462|5.704627
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin295/web/map.html)|5.704627|5.724749
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin296/web/map.html)|5.724749|5.744789
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin297/web/map.html)|5.744789|5.764806
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin298/web/map.html)|5.764806|5.784809
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin299/web/map.html)|5.784809|5.804885
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin300/web/map.html)|5.804885|5.824926
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin301/web/map.html)|5.824926|5.845003
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin302/web/map.html)|5.845003|5.86502
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin303/web/map.html)|5.86502|5.885038
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin304/web/map.html)|5.885038|5.905054
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin305/web/map.html)|5.905054|5.925068
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin306/web/map.html)|5.925068|5.945103
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin307/web/map.html)|5.945103|5.965167
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin308/web/map.html)|5.965167|5.985242
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin309/web/map.html)|5.985242|6.005301
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin310/web/map.html)|6.005301|6.025533
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin311/web/map.html)|6.025533|6.045538
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin312/web/map.html)|6.045538|6.065661
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin313/web/map.html)|6.065661|6.085674
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin314/web/map.html)|6.085674|6.105853
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin315/web/map.html)|6.105853|6.125908
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin316/web/map.html)|6.125908|6.145964
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin317/web/map.html)|6.145964|6.166012
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin318/web/map.html)|6.166012|6.186139
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin319/web/map.html)|6.186139|6.206272
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin320/web/map.html)|6.206272|6.226287
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin321/web/map.html)|6.226287|6.246298
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin322/web/map.html)|6.246298|6.266373
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin323/web/map.html)|6.266373|6.286601
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin324/web/map.html)|6.286601|6.306623
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin325/web/map.html)|6.306623|6.326627
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin326/web/map.html)|6.326627|6.346698
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin327/web/map.html)|6.346698|6.366754
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin328/web/map.html)|6.366754|6.386782
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin329/web/map.html)|6.386782|6.406996
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin330/web/map.html)|6.406996|6.426998
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin331/web/map.html)|6.426998|6.447151
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin332/web/map.html)|6.447151|6.467204
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin333/web/map.html)|6.467204|6.487535
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin334/web/map.html)|6.487535|6.507689
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin335/web/map.html)|6.507689|6.527727
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin336/web/map.html)|6.527727|6.547765
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin337/web/map.html)|6.547765|6.567788
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin338/web/map.html)|6.567788|6.587915
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin339/web/map.html)|6.587915|6.607926
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin340/web/map.html)|6.607926|6.627991
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin341/web/map.html)|6.627991|6.648026
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin342/web/map.html)|6.648026|6.668287
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin343/web/map.html)|6.668287|6.688308
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin344/web/map.html)|6.688308|6.708324
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin345/web/map.html)|6.708324|6.728401
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin346/web/map.html)|6.728401|6.748689
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin347/web/map.html)|6.748689|6.768883
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin348/web/map.html)|6.768883|6.788974
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin349/web/map.html)|6.788974|6.809153
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin350/web/map.html)|6.809153|6.829255
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin351/web/map.html)|6.829255|6.849394
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin352/web/map.html)|6.849394|6.869541
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin353/web/map.html)|6.869541|6.889565
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin354/web/map.html)|6.889565|6.909567
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin355/web/map.html)|6.909567|6.929587
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin356/web/map.html)|6.929587|6.949625
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin357/web/map.html)|6.949625|6.969661
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin358/web/map.html)|6.969661|6.989741
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin359/web/map.html)|6.989741|7.009743
-[go to map](http://aspect-ui.de/SDSSDR12/quasars/Bin360/web/map.html)|7.009743|7.031674
+[bin 0](http://aspect-ui.de/SDSSDR12/quasars/Bin0/web/map.html)|0.000230285|0.02023449
+[bin 1](http://aspect-ui.de/SDSSDR12/quasars/Bin1/web/map.html)|0.02023449|0.04023816
+[bin 2](http://aspect-ui.de/SDSSDR12/quasars/Bin2/web/map.html)|0.04023816|0.06024171
+[bin 3](http://aspect-ui.de/SDSSDR12/quasars/Bin3/web/map.html)|0.06024171|0.08025946
+[bin 4](http://aspect-ui.de/SDSSDR12/quasars/Bin4/web/map.html)|0.08025946|0.1002609
+[bin 5](http://aspect-ui.de/SDSSDR12/quasars/Bin5/web/map.html)|0.1002609|0.120262
+[bin 6](http://aspect-ui.de/SDSSDR12/quasars/Bin6/web/map.html)|0.120262|0.140269
+[bin 7](http://aspect-ui.de/SDSSDR12/quasars/Bin7/web/map.html)|0.140269|0.160279
+[bin 8](http://aspect-ui.de/SDSSDR12/quasars/Bin8/web/map.html)|0.160279|0.1802793
+[bin 9](http://aspect-ui.de/SDSSDR12/quasars/Bin9/web/map.html)|0.1802793|0.2002796
+[bin 10](http://aspect-ui.de/SDSSDR12/quasars/Bin10/web/map.html)|0.2002796|0.2202954
+[bin 11](http://aspect-ui.de/SDSSDR12/quasars/Bin11/web/map.html)|0.2202954|0.2402959
+[bin 12](http://aspect-ui.de/SDSSDR12/quasars/Bin12/web/map.html)|0.2402959|0.2602963
+[bin 13](http://aspect-ui.de/SDSSDR12/quasars/Bin13/web/map.html)|0.2602963|0.2803069
+[bin 14](http://aspect-ui.de/SDSSDR12/quasars/Bin14/web/map.html)|0.2803069|0.3003155
+[bin 15](http://aspect-ui.de/SDSSDR12/quasars/Bin15/web/map.html)|0.3003155|0.3203386
+[bin 16](http://aspect-ui.de/SDSSDR12/quasars/Bin16/web/map.html)|0.3203386|0.3403622
+[bin 17](http://aspect-ui.de/SDSSDR12/quasars/Bin17/web/map.html)|0.3403622|0.3603635
+[bin 18](http://aspect-ui.de/SDSSDR12/quasars/Bin18/web/map.html)|0.3603635|0.3803675
+[bin 19](http://aspect-ui.de/SDSSDR12/quasars/Bin19/web/map.html)|0.3803675|0.4003676
+[bin 20](http://aspect-ui.de/SDSSDR12/quasars/Bin20/web/map.html)|0.4003676|0.420372
+[bin 21](http://aspect-ui.de/SDSSDR12/quasars/Bin21/web/map.html)|0.420372|0.4403763
+[bin 22](http://aspect-ui.de/SDSSDR12/quasars/Bin22/web/map.html)|0.4403763|0.4603805
+[bin 23](http://aspect-ui.de/SDSSDR12/quasars/Bin23/web/map.html)|0.4603805|0.4803931
+[bin 24](http://aspect-ui.de/SDSSDR12/quasars/Bin24/web/map.html)|0.4803931|0.5003945
+[bin 25](http://aspect-ui.de/SDSSDR12/quasars/Bin25/web/map.html)|0.5003945|0.5203953
+[bin 26](http://aspect-ui.de/SDSSDR12/quasars/Bin26/web/map.html)|0.5203953|0.5403976
+[bin 27](http://aspect-ui.de/SDSSDR12/quasars/Bin27/web/map.html)|0.5403976|0.5604001
+[bin 28](http://aspect-ui.de/SDSSDR12/quasars/Bin28/web/map.html)|0.5604001|0.5804049
+[bin 29](http://aspect-ui.de/SDSSDR12/quasars/Bin29/web/map.html)|0.5804049|0.6004057
+[bin 30](http://aspect-ui.de/SDSSDR12/quasars/Bin30/web/map.html)|0.6004057|0.620411
+[bin 31](http://aspect-ui.de/SDSSDR12/quasars/Bin31/web/map.html)|0.620411|0.640412
+[bin 32](http://aspect-ui.de/SDSSDR12/quasars/Bin32/web/map.html)|0.640412|0.660413
+[bin 33](http://aspect-ui.de/SDSSDR12/quasars/Bin33/web/map.html)|0.660413|0.6804137
+[bin 34](http://aspect-ui.de/SDSSDR12/quasars/Bin34/web/map.html)|0.6804137|0.7004161
+[bin 35](http://aspect-ui.de/SDSSDR12/quasars/Bin35/web/map.html)|0.7004161|0.7204322
+[bin 36](http://aspect-ui.de/SDSSDR12/quasars/Bin36/web/map.html)|0.7204322|0.7393005
+[bin 37](http://aspect-ui.de/SDSSDR12/quasars/Bin37/web/map.html)|0.7393005|0.7593029
+[bin 38](http://aspect-ui.de/SDSSDR12/quasars/Bin38/web/map.html)|0.7593029|0.7793069
+[bin 39](http://aspect-ui.de/SDSSDR12/quasars/Bin39/web/map.html)|0.7793069|0.799309
+[bin 40](http://aspect-ui.de/SDSSDR12/quasars/Bin40/web/map.html)|0.799309|0.81898
+[bin 41](http://aspect-ui.de/SDSSDR12/quasars/Bin41/web/map.html)|0.81898|0.8389802
+[bin 42](http://aspect-ui.de/SDSSDR12/quasars/Bin42/web/map.html)|0.8389802|0.8574764
+[bin 43](http://aspect-ui.de/SDSSDR12/quasars/Bin43/web/map.html)|0.8574764|0.8775154
+[bin 44](http://aspect-ui.de/SDSSDR12/quasars/Bin44/web/map.html)|0.8775154|0.8975242
+[bin 45](http://aspect-ui.de/SDSSDR12/quasars/Bin45/web/map.html)|0.8975242|0.917527
+[bin 46](http://aspect-ui.de/SDSSDR12/quasars/Bin46/web/map.html)|0.917527|0.9375274
+[bin 47](http://aspect-ui.de/SDSSDR12/quasars/Bin47/web/map.html)|0.9375274|0.9575281
+[bin 48](http://aspect-ui.de/SDSSDR12/quasars/Bin48/web/map.html)|0.9575281|0.9775299
+[bin 49](http://aspect-ui.de/SDSSDR12/quasars/Bin49/web/map.html)|0.9775299|0.9975371
+[bin 50](http://aspect-ui.de/SDSSDR12/quasars/Bin50/web/map.html)|0.9975371|1.017538
+[bin 51](http://aspect-ui.de/SDSSDR12/quasars/Bin51/web/map.html)|1.017538|1.035444
+[bin 52](http://aspect-ui.de/SDSSDR12/quasars/Bin52/web/map.html)|1.035444|1.048447
+[bin 53](http://aspect-ui.de/SDSSDR12/quasars/Bin53/web/map.html)|1.048447|1.064821
+[bin 54](http://aspect-ui.de/SDSSDR12/quasars/Bin54/web/map.html)|1.064821|1.080958
+[bin 55](http://aspect-ui.de/SDSSDR12/quasars/Bin55/web/map.html)|1.080958|1.10096
+[bin 56](http://aspect-ui.de/SDSSDR12/quasars/Bin56/web/map.html)|1.10096|1.120961
+[bin 57](http://aspect-ui.de/SDSSDR12/quasars/Bin57/web/map.html)|1.120961|1.140678
+[bin 58](http://aspect-ui.de/SDSSDR12/quasars/Bin58/web/map.html)|1.140678|1.156433
+[bin 59](http://aspect-ui.de/SDSSDR12/quasars/Bin59/web/map.html)|1.156433|1.169903
+[bin 60](http://aspect-ui.de/SDSSDR12/quasars/Bin60/web/map.html)|1.169903|1.183411
+[bin 61](http://aspect-ui.de/SDSSDR12/quasars/Bin61/web/map.html)|1.183411|1.200707
+[bin 62](http://aspect-ui.de/SDSSDR12/quasars/Bin62/web/map.html)|1.200707|1.219494
+[bin 63](http://aspect-ui.de/SDSSDR12/quasars/Bin63/web/map.html)|1.219494|1.23686
+[bin 64](http://aspect-ui.de/SDSSDR12/quasars/Bin64/web/map.html)|1.23686|1.25529
+[bin 65](http://aspect-ui.de/SDSSDR12/quasars/Bin65/web/map.html)|1.25529|1.273262
+[bin 66](http://aspect-ui.de/SDSSDR12/quasars/Bin66/web/map.html)|1.273262|1.29064
+[bin 67](http://aspect-ui.de/SDSSDR12/quasars/Bin67/web/map.html)|1.29064|1.310647
+[bin 68](http://aspect-ui.de/SDSSDR12/quasars/Bin68/web/map.html)|1.310647|1.330653
+[bin 69](http://aspect-ui.de/SDSSDR12/quasars/Bin69/web/map.html)|1.330653|1.350679
+[bin 70](http://aspect-ui.de/SDSSDR12/quasars/Bin70/web/map.html)|1.350679|1.370683
+[bin 71](http://aspect-ui.de/SDSSDR12/quasars/Bin71/web/map.html)|1.370683|1.390684
+[bin 72](http://aspect-ui.de/SDSSDR12/quasars/Bin72/web/map.html)|1.390684|1.410694
+[bin 73](http://aspect-ui.de/SDSSDR12/quasars/Bin73/web/map.html)|1.410694|1.430694
+[bin 74](http://aspect-ui.de/SDSSDR12/quasars/Bin74/web/map.html)|1.430694|1.450701
+[bin 75](http://aspect-ui.de/SDSSDR12/quasars/Bin75/web/map.html)|1.450701|1.470726
+[bin 76](http://aspect-ui.de/SDSSDR12/quasars/Bin76/web/map.html)|1.470726|1.490726
+[bin 77](http://aspect-ui.de/SDSSDR12/quasars/Bin77/web/map.html)|1.490726|1.510726
+[bin 78](http://aspect-ui.de/SDSSDR12/quasars/Bin78/web/map.html)|1.510726|1.529567
+[bin 79](http://aspect-ui.de/SDSSDR12/quasars/Bin79/web/map.html)|1.529567|1.545914
+[bin 80](http://aspect-ui.de/SDSSDR12/quasars/Bin80/web/map.html)|1.545914|1.562761
+[bin 81](http://aspect-ui.de/SDSSDR12/quasars/Bin81/web/map.html)|1.562761|1.581012
+[bin 82](http://aspect-ui.de/SDSSDR12/quasars/Bin82/web/map.html)|1.581012|1.599833
+[bin 83](http://aspect-ui.de/SDSSDR12/quasars/Bin83/web/map.html)|1.599833|1.619045
+[bin 84](http://aspect-ui.de/SDSSDR12/quasars/Bin84/web/map.html)|1.619045|1.639046
+[bin 85](http://aspect-ui.de/SDSSDR12/quasars/Bin85/web/map.html)|1.639046|1.65905
+[bin 86](http://aspect-ui.de/SDSSDR12/quasars/Bin86/web/map.html)|1.65905|1.679056
+[bin 87](http://aspect-ui.de/SDSSDR12/quasars/Bin87/web/map.html)|1.679056|1.699058
+[bin 88](http://aspect-ui.de/SDSSDR12/quasars/Bin88/web/map.html)|1.699058|1.719068
+[bin 89](http://aspect-ui.de/SDSSDR12/quasars/Bin89/web/map.html)|1.719068|1.739083
+[bin 90](http://aspect-ui.de/SDSSDR12/quasars/Bin90/web/map.html)|1.739083|1.759088
+[bin 91](http://aspect-ui.de/SDSSDR12/quasars/Bin91/web/map.html)|1.759088|1.779101
+[bin 92](http://aspect-ui.de/SDSSDR12/quasars/Bin92/web/map.html)|1.779101|1.799103
+[bin 93](http://aspect-ui.de/SDSSDR12/quasars/Bin93/web/map.html)|1.799103|1.819105
+[bin 94](http://aspect-ui.de/SDSSDR12/quasars/Bin94/web/map.html)|1.819105|1.839111
+[bin 95](http://aspect-ui.de/SDSSDR12/quasars/Bin95/web/map.html)|1.839111|1.859114
+[bin 96](http://aspect-ui.de/SDSSDR12/quasars/Bin96/web/map.html)|1.859114|1.879115
+[bin 97](http://aspect-ui.de/SDSSDR12/quasars/Bin97/web/map.html)|1.879115|1.899115
+[bin 98](http://aspect-ui.de/SDSSDR12/quasars/Bin98/web/map.html)|1.899115|1.919117
+[bin 99](http://aspect-ui.de/SDSSDR12/quasars/Bin99/web/map.html)|1.919117|1.939119
+[bin 100](http://aspect-ui.de/SDSSDR12/quasars/Bin100/web/map.html)|1.939119|1.959121
+[bin 101](http://aspect-ui.de/SDSSDR12/quasars/Bin101/web/map.html)|1.959121|1.979124
+[bin 102](http://aspect-ui.de/SDSSDR12/quasars/Bin102/web/map.html)|1.979124|1.999163
+[bin 103](http://aspect-ui.de/SDSSDR12/quasars/Bin103/web/map.html)|1.999163|2.019177
+[bin 104](http://aspect-ui.de/SDSSDR12/quasars/Bin104/web/map.html)|2.019177|2.039179
+[bin 105](http://aspect-ui.de/SDSSDR12/quasars/Bin105/web/map.html)|2.039179|2.059179
+[bin 106](http://aspect-ui.de/SDSSDR12/quasars/Bin106/web/map.html)|2.059179|2.07918
+[bin 107](http://aspect-ui.de/SDSSDR12/quasars/Bin107/web/map.html)|2.07918|2.099184
+[bin 108](http://aspect-ui.de/SDSSDR12/quasars/Bin108/web/map.html)|2.099184|2.119193
+[bin 109](http://aspect-ui.de/SDSSDR12/quasars/Bin109/web/map.html)|2.119193|2.139193
+[bin 110](http://aspect-ui.de/SDSSDR12/quasars/Bin110/web/map.html)|2.139193|2.157961
+[bin 111](http://aspect-ui.de/SDSSDR12/quasars/Bin111/web/map.html)|2.157961|2.173692
+[bin 112](http://aspect-ui.de/SDSSDR12/quasars/Bin112/web/map.html)|2.173692|2.188724
+[bin 113](http://aspect-ui.de/SDSSDR12/quasars/Bin113/web/map.html)|2.188724|2.202915
+[bin 114](http://aspect-ui.de/SDSSDR12/quasars/Bin114/web/map.html)|2.202915|2.216449
+[bin 115](http://aspect-ui.de/SDSSDR12/quasars/Bin115/web/map.html)|2.216449|2.229072
+[bin 116](http://aspect-ui.de/SDSSDR12/quasars/Bin116/web/map.html)|2.229072|2.24169
+[bin 117](http://aspect-ui.de/SDSSDR12/quasars/Bin117/web/map.html)|2.24169|2.25422
+[bin 118](http://aspect-ui.de/SDSSDR12/quasars/Bin118/web/map.html)|2.25422|2.266309
+[bin 119](http://aspect-ui.de/SDSSDR12/quasars/Bin119/web/map.html)|2.266309|2.278718
+[bin 120](http://aspect-ui.de/SDSSDR12/quasars/Bin120/web/map.html)|2.278718|2.291254
+[bin 121](http://aspect-ui.de/SDSSDR12/quasars/Bin121/web/map.html)|2.291254|2.30369
+[bin 122](http://aspect-ui.de/SDSSDR12/quasars/Bin122/web/map.html)|2.30369|2.316546
+[bin 123](http://aspect-ui.de/SDSSDR12/quasars/Bin123/web/map.html)|2.316546|2.329596
+[bin 124](http://aspect-ui.de/SDSSDR12/quasars/Bin124/web/map.html)|2.329596|2.343082
+[bin 125](http://aspect-ui.de/SDSSDR12/quasars/Bin125/web/map.html)|2.343082|2.35669
+[bin 126](http://aspect-ui.de/SDSSDR12/quasars/Bin126/web/map.html)|2.35669|2.370809
+[bin 127](http://aspect-ui.de/SDSSDR12/quasars/Bin127/web/map.html)|2.370809|2.385065
+[bin 128](http://aspect-ui.de/SDSSDR12/quasars/Bin128/web/map.html)|2.385065|2.399232
+[bin 129](http://aspect-ui.de/SDSSDR12/quasars/Bin129/web/map.html)|2.399232|2.413646
+[bin 130](http://aspect-ui.de/SDSSDR12/quasars/Bin130/web/map.html)|2.413646|2.428634
+[bin 131](http://aspect-ui.de/SDSSDR12/quasars/Bin131/web/map.html)|2.428634|2.445055
+[bin 132](http://aspect-ui.de/SDSSDR12/quasars/Bin132/web/map.html)|2.445055|2.462035
+[bin 133](http://aspect-ui.de/SDSSDR12/quasars/Bin133/web/map.html)|2.462035|2.479828
+[bin 134](http://aspect-ui.de/SDSSDR12/quasars/Bin134/web/map.html)|2.479828|2.499074
+[bin 135](http://aspect-ui.de/SDSSDR12/quasars/Bin135/web/map.html)|2.499074|2.517853
+[bin 136](http://aspect-ui.de/SDSSDR12/quasars/Bin136/web/map.html)|2.517853|2.536479
+[bin 137](http://aspect-ui.de/SDSSDR12/quasars/Bin137/web/map.html)|2.536479|2.55648
+[bin 138](http://aspect-ui.de/SDSSDR12/quasars/Bin138/web/map.html)|2.55648|2.576489
+[bin 139](http://aspect-ui.de/SDSSDR12/quasars/Bin139/web/map.html)|2.576489|2.59649
+[bin 140](http://aspect-ui.de/SDSSDR12/quasars/Bin140/web/map.html)|2.59649|2.616491
+[bin 141](http://aspect-ui.de/SDSSDR12/quasars/Bin141/web/map.html)|2.616491|2.636493
+[bin 142](http://aspect-ui.de/SDSSDR12/quasars/Bin142/web/map.html)|2.636493|2.656498
+[bin 143](http://aspect-ui.de/SDSSDR12/quasars/Bin143/web/map.html)|2.656498|2.676506
+[bin 144](http://aspect-ui.de/SDSSDR12/quasars/Bin144/web/map.html)|2.676506|2.696509
+[bin 145](http://aspect-ui.de/SDSSDR12/quasars/Bin145/web/map.html)|2.696509|2.716513
+[bin 146](http://aspect-ui.de/SDSSDR12/quasars/Bin146/web/map.html)|2.716513|2.736513
+[bin 147](http://aspect-ui.de/SDSSDR12/quasars/Bin147/web/map.html)|2.736513|2.756529
+[bin 148](http://aspect-ui.de/SDSSDR12/quasars/Bin148/web/map.html)|2.756529|2.776529
+[bin 149](http://aspect-ui.de/SDSSDR12/quasars/Bin149/web/map.html)|2.776529|2.796542
+[bin 150](http://aspect-ui.de/SDSSDR12/quasars/Bin150/web/map.html)|2.796542|2.816545
+[bin 151](http://aspect-ui.de/SDSSDR12/quasars/Bin151/web/map.html)|2.816545|2.836546
+[bin 152](http://aspect-ui.de/SDSSDR12/quasars/Bin152/web/map.html)|2.836546|2.856549
+[bin 153](http://aspect-ui.de/SDSSDR12/quasars/Bin153/web/map.html)|2.856549|2.876554
+[bin 154](http://aspect-ui.de/SDSSDR12/quasars/Bin154/web/map.html)|2.876554|2.896555
+[bin 155](http://aspect-ui.de/SDSSDR12/quasars/Bin155/web/map.html)|2.896555|2.916572
+[bin 156](http://aspect-ui.de/SDSSDR12/quasars/Bin156/web/map.html)|2.916572|2.936581
+[bin 157](http://aspect-ui.de/SDSSDR12/quasars/Bin157/web/map.html)|2.936581|2.956582
+[bin 158](http://aspect-ui.de/SDSSDR12/quasars/Bin158/web/map.html)|2.956582|2.976588
+[bin 159](http://aspect-ui.de/SDSSDR12/quasars/Bin159/web/map.html)|2.976588|2.996606
+[bin 160](http://aspect-ui.de/SDSSDR12/quasars/Bin160/web/map.html)|2.996606|3.016606
+[bin 161](http://aspect-ui.de/SDSSDR12/quasars/Bin161/web/map.html)|3.016606|3.036612
+[bin 162](http://aspect-ui.de/SDSSDR12/quasars/Bin162/web/map.html)|3.036612|3.056624
+[bin 163](http://aspect-ui.de/SDSSDR12/quasars/Bin163/web/map.html)|3.056624|3.076626
+[bin 164](http://aspect-ui.de/SDSSDR12/quasars/Bin164/web/map.html)|3.076626|3.096632
+[bin 165](http://aspect-ui.de/SDSSDR12/quasars/Bin165/web/map.html)|3.096632|3.116636
+[bin 166](http://aspect-ui.de/SDSSDR12/quasars/Bin166/web/map.html)|3.116636|3.136643
+[bin 167](http://aspect-ui.de/SDSSDR12/quasars/Bin167/web/map.html)|3.136643|3.156652
+[bin 168](http://aspect-ui.de/SDSSDR12/quasars/Bin168/web/map.html)|3.156652|3.176659
+[bin 169](http://aspect-ui.de/SDSSDR12/quasars/Bin169/web/map.html)|3.176659|3.196661
+[bin 170](http://aspect-ui.de/SDSSDR12/quasars/Bin170/web/map.html)|3.196661|3.216666
+[bin 171](http://aspect-ui.de/SDSSDR12/quasars/Bin171/web/map.html)|3.216666|3.236666
+[bin 172](http://aspect-ui.de/SDSSDR12/quasars/Bin172/web/map.html)|3.236666|3.256691
+[bin 173](http://aspect-ui.de/SDSSDR12/quasars/Bin173/web/map.html)|3.256691|3.276706
+[bin 174](http://aspect-ui.de/SDSSDR12/quasars/Bin174/web/map.html)|3.276706|3.296735
+[bin 175](http://aspect-ui.de/SDSSDR12/quasars/Bin175/web/map.html)|3.296735|3.316759
+[bin 176](http://aspect-ui.de/SDSSDR12/quasars/Bin176/web/map.html)|3.316759|3.336798
+[bin 177](http://aspect-ui.de/SDSSDR12/quasars/Bin177/web/map.html)|3.336798|3.356801
+[bin 178](http://aspect-ui.de/SDSSDR12/quasars/Bin178/web/map.html)|3.356801|3.376847
+[bin 179](http://aspect-ui.de/SDSSDR12/quasars/Bin179/web/map.html)|3.376847|3.396886
+[bin 180](http://aspect-ui.de/SDSSDR12/quasars/Bin180/web/map.html)|3.396886|3.416888
+[bin 181](http://aspect-ui.de/SDSSDR12/quasars/Bin181/web/map.html)|3.416888|3.436891
+[bin 182](http://aspect-ui.de/SDSSDR12/quasars/Bin182/web/map.html)|3.436891|3.456929
+[bin 183](http://aspect-ui.de/SDSSDR12/quasars/Bin183/web/map.html)|3.456929|3.476949
+[bin 184](http://aspect-ui.de/SDSSDR12/quasars/Bin184/web/map.html)|3.476949|3.49699
+[bin 185](http://aspect-ui.de/SDSSDR12/quasars/Bin185/web/map.html)|3.49699|3.516997
+[bin 186](http://aspect-ui.de/SDSSDR12/quasars/Bin186/web/map.html)|3.516997|3.537099
+[bin 187](http://aspect-ui.de/SDSSDR12/quasars/Bin187/web/map.html)|3.537099|3.557117
+[bin 188](http://aspect-ui.de/SDSSDR12/quasars/Bin188/web/map.html)|3.557117|3.577133
+[bin 189](http://aspect-ui.de/SDSSDR12/quasars/Bin189/web/map.html)|3.577133|3.59723
+[bin 190](http://aspect-ui.de/SDSSDR12/quasars/Bin190/web/map.html)|3.59723|3.61726
+[bin 191](http://aspect-ui.de/SDSSDR12/quasars/Bin191/web/map.html)|3.61726|3.637334
+[bin 192](http://aspect-ui.de/SDSSDR12/quasars/Bin192/web/map.html)|3.637334|3.657383
+[bin 193](http://aspect-ui.de/SDSSDR12/quasars/Bin193/web/map.html)|3.657383|3.677383
+[bin 194](http://aspect-ui.de/SDSSDR12/quasars/Bin194/web/map.html)|3.677383|3.697446
+[bin 195](http://aspect-ui.de/SDSSDR12/quasars/Bin195/web/map.html)|3.697446|3.717463
+[bin 196](http://aspect-ui.de/SDSSDR12/quasars/Bin196/web/map.html)|3.717463|3.737535
+[bin 197](http://aspect-ui.de/SDSSDR12/quasars/Bin197/web/map.html)|3.737535|3.757544
+[bin 198](http://aspect-ui.de/SDSSDR12/quasars/Bin198/web/map.html)|3.757544|3.777548
+[bin 199](http://aspect-ui.de/SDSSDR12/quasars/Bin199/web/map.html)|3.777548|3.797588
+[bin 200](http://aspect-ui.de/SDSSDR12/quasars/Bin200/web/map.html)|3.797588|3.817605
+[bin 201](http://aspect-ui.de/SDSSDR12/quasars/Bin201/web/map.html)|3.817605|3.83763
+[bin 202](http://aspect-ui.de/SDSSDR12/quasars/Bin202/web/map.html)|3.83763|3.857666
+[bin 203](http://aspect-ui.de/SDSSDR12/quasars/Bin203/web/map.html)|3.857666|3.877675
+[bin 204](http://aspect-ui.de/SDSSDR12/quasars/Bin204/web/map.html)|3.877675|3.897681
+[bin 205](http://aspect-ui.de/SDSSDR12/quasars/Bin205/web/map.html)|3.897681|3.917708
+[bin 206](http://aspect-ui.de/SDSSDR12/quasars/Bin206/web/map.html)|3.917708|3.937716
+[bin 207](http://aspect-ui.de/SDSSDR12/quasars/Bin207/web/map.html)|3.937716|3.957734
+[bin 208](http://aspect-ui.de/SDSSDR12/quasars/Bin208/web/map.html)|3.957734|3.977786
+[bin 209](http://aspect-ui.de/SDSSDR12/quasars/Bin209/web/map.html)|3.977786|3.99783
+[bin 210](http://aspect-ui.de/SDSSDR12/quasars/Bin210/web/map.html)|3.99783|4.017859
+[bin 211](http://aspect-ui.de/SDSSDR12/quasars/Bin211/web/map.html)|4.017859|4.037868
+[bin 212](http://aspect-ui.de/SDSSDR12/quasars/Bin212/web/map.html)|4.037868|4.057875
+[bin 213](http://aspect-ui.de/SDSSDR12/quasars/Bin213/web/map.html)|4.057875|4.077881
+[bin 214](http://aspect-ui.de/SDSSDR12/quasars/Bin214/web/map.html)|4.077881|4.097909
+[bin 215](http://aspect-ui.de/SDSSDR12/quasars/Bin215/web/map.html)|4.097909|4.11797
+[bin 216](http://aspect-ui.de/SDSSDR12/quasars/Bin216/web/map.html)|4.11797|4.137994
+[bin 217](http://aspect-ui.de/SDSSDR12/quasars/Bin217/web/map.html)|4.137994|4.157999
+[bin 218](http://aspect-ui.de/SDSSDR12/quasars/Bin218/web/map.html)|4.157999|4.17806
+[bin 219](http://aspect-ui.de/SDSSDR12/quasars/Bin219/web/map.html)|4.17806|4.198105
+[bin 220](http://aspect-ui.de/SDSSDR12/quasars/Bin220/web/map.html)|4.198105|4.218222
+[bin 221](http://aspect-ui.de/SDSSDR12/quasars/Bin221/web/map.html)|4.218222|4.238431
+[bin 222](http://aspect-ui.de/SDSSDR12/quasars/Bin222/web/map.html)|4.238431|4.258474
+[bin 223](http://aspect-ui.de/SDSSDR12/quasars/Bin223/web/map.html)|4.258474|4.278562
+[bin 224](http://aspect-ui.de/SDSSDR12/quasars/Bin224/web/map.html)|4.278562|4.298584
+[bin 225](http://aspect-ui.de/SDSSDR12/quasars/Bin225/web/map.html)|4.298584|4.31872
+[bin 226](http://aspect-ui.de/SDSSDR12/quasars/Bin226/web/map.html)|4.31872|4.338746
+[bin 227](http://aspect-ui.de/SDSSDR12/quasars/Bin227/web/map.html)|4.338746|4.358881
+[bin 228](http://aspect-ui.de/SDSSDR12/quasars/Bin228/web/map.html)|4.358881|4.378887
+[bin 229](http://aspect-ui.de/SDSSDR12/quasars/Bin229/web/map.html)|4.378887|4.398888
+[bin 230](http://aspect-ui.de/SDSSDR12/quasars/Bin230/web/map.html)|4.398888|4.418923
+[bin 231](http://aspect-ui.de/SDSSDR12/quasars/Bin231/web/map.html)|4.418923|4.439064
+[bin 232](http://aspect-ui.de/SDSSDR12/quasars/Bin232/web/map.html)|4.439064|4.459112
+[bin 233](http://aspect-ui.de/SDSSDR12/quasars/Bin233/web/map.html)|4.459112|4.479146
+[bin 234](http://aspect-ui.de/SDSSDR12/quasars/Bin234/web/map.html)|4.479146|4.499358
+[bin 235](http://aspect-ui.de/SDSSDR12/quasars/Bin235/web/map.html)|4.499358|4.519414
+[bin 236](http://aspect-ui.de/SDSSDR12/quasars/Bin236/web/map.html)|4.519414|4.539505
+[bin 237](http://aspect-ui.de/SDSSDR12/quasars/Bin237/web/map.html)|4.539505|4.559506
+[bin 238](http://aspect-ui.de/SDSSDR12/quasars/Bin238/web/map.html)|4.559506|4.579608
+[bin 239](http://aspect-ui.de/SDSSDR12/quasars/Bin239/web/map.html)|4.579608|4.59968
+[bin 240](http://aspect-ui.de/SDSSDR12/quasars/Bin240/web/map.html)|4.59968|4.619888
+[bin 241](http://aspect-ui.de/SDSSDR12/quasars/Bin241/web/map.html)|4.619888|4.639975
+[bin 242](http://aspect-ui.de/SDSSDR12/quasars/Bin242/web/map.html)|4.639975|4.660202
+[bin 243](http://aspect-ui.de/SDSSDR12/quasars/Bin243/web/map.html)|4.660202|4.680215
+[bin 244](http://aspect-ui.de/SDSSDR12/quasars/Bin244/web/map.html)|4.680215|4.700249
+[bin 245](http://aspect-ui.de/SDSSDR12/quasars/Bin245/web/map.html)|4.700249|4.720311
+[bin 246](http://aspect-ui.de/SDSSDR12/quasars/Bin246/web/map.html)|4.720311|4.740353
+[bin 247](http://aspect-ui.de/SDSSDR12/quasars/Bin247/web/map.html)|4.740353|4.760377
+[bin 248](http://aspect-ui.de/SDSSDR12/quasars/Bin248/web/map.html)|4.760377|4.780385
+[bin 249](http://aspect-ui.de/SDSSDR12/quasars/Bin249/web/map.html)|4.780385|4.800748
+[bin 250](http://aspect-ui.de/SDSSDR12/quasars/Bin250/web/map.html)|4.800748|4.820817
+[bin 251](http://aspect-ui.de/SDSSDR12/quasars/Bin251/web/map.html)|4.820817|4.841102
+[bin 252](http://aspect-ui.de/SDSSDR12/quasars/Bin252/web/map.html)|4.841102|4.861109
+[bin 253](http://aspect-ui.de/SDSSDR12/quasars/Bin253/web/map.html)|4.861109|4.881133
+[bin 254](http://aspect-ui.de/SDSSDR12/quasars/Bin254/web/map.html)|4.881133|4.901137
+[bin 255](http://aspect-ui.de/SDSSDR12/quasars/Bin255/web/map.html)|4.901137|4.921203
+[bin 256](http://aspect-ui.de/SDSSDR12/quasars/Bin256/web/map.html)|4.921203|4.941346
+[bin 257](http://aspect-ui.de/SDSSDR12/quasars/Bin257/web/map.html)|4.941346|4.961361
+[bin 258](http://aspect-ui.de/SDSSDR12/quasars/Bin258/web/map.html)|4.961361|4.98142
+[bin 259](http://aspect-ui.de/SDSSDR12/quasars/Bin259/web/map.html)|4.98142|5.001445
+[bin 260](http://aspect-ui.de/SDSSDR12/quasars/Bin260/web/map.html)|5.001445|5.021494
+[bin 261](http://aspect-ui.de/SDSSDR12/quasars/Bin261/web/map.html)|5.021494|5.041574
+[bin 262](http://aspect-ui.de/SDSSDR12/quasars/Bin262/web/map.html)|5.041574|5.061728
+[bin 263](http://aspect-ui.de/SDSSDR12/quasars/Bin263/web/map.html)|5.061728|5.082006
+[bin 264](http://aspect-ui.de/SDSSDR12/quasars/Bin264/web/map.html)|5.082006|5.10214
+[bin 265](http://aspect-ui.de/SDSSDR12/quasars/Bin265/web/map.html)|5.10214|5.122185
+[bin 266](http://aspect-ui.de/SDSSDR12/quasars/Bin266/web/map.html)|5.122185|5.142395
+[bin 267](http://aspect-ui.de/SDSSDR12/quasars/Bin267/web/map.html)|5.142395|5.162397
+[bin 268](http://aspect-ui.de/SDSSDR12/quasars/Bin268/web/map.html)|5.162397|5.182523
+[bin 269](http://aspect-ui.de/SDSSDR12/quasars/Bin269/web/map.html)|5.182523|5.202724
+[bin 270](http://aspect-ui.de/SDSSDR12/quasars/Bin270/web/map.html)|5.202724|5.222739
+[bin 271](http://aspect-ui.de/SDSSDR12/quasars/Bin271/web/map.html)|5.222739|5.242846
+[bin 272](http://aspect-ui.de/SDSSDR12/quasars/Bin272/web/map.html)|5.242846|5.262959
+[bin 273](http://aspect-ui.de/SDSSDR12/quasars/Bin273/web/map.html)|5.262959|5.283024
+[bin 274](http://aspect-ui.de/SDSSDR12/quasars/Bin274/web/map.html)|5.283024|5.303113
+[bin 275](http://aspect-ui.de/SDSSDR12/quasars/Bin275/web/map.html)|5.303113|5.323205
+[bin 276](http://aspect-ui.de/SDSSDR12/quasars/Bin276/web/map.html)|5.323205|5.343224
+[bin 277](http://aspect-ui.de/SDSSDR12/quasars/Bin277/web/map.html)|5.343224|5.363233
+[bin 278](http://aspect-ui.de/SDSSDR12/quasars/Bin278/web/map.html)|5.363233|5.383312
+[bin 279](http://aspect-ui.de/SDSSDR12/quasars/Bin279/web/map.html)|5.383312|5.403463
+[bin 280](http://aspect-ui.de/SDSSDR12/quasars/Bin280/web/map.html)|5.403463|5.42347
+[bin 281](http://aspect-ui.de/SDSSDR12/quasars/Bin281/web/map.html)|5.42347|5.443492
+[bin 282](http://aspect-ui.de/SDSSDR12/quasars/Bin282/web/map.html)|5.443492|5.463662
+[bin 283](http://aspect-ui.de/SDSSDR12/quasars/Bin283/web/map.html)|5.463662|5.483757
+[bin 284](http://aspect-ui.de/SDSSDR12/quasars/Bin284/web/map.html)|5.483757|5.50396
+[bin 285](http://aspect-ui.de/SDSSDR12/quasars/Bin285/web/map.html)|5.50396|5.524026
+[bin 286](http://aspect-ui.de/SDSSDR12/quasars/Bin286/web/map.html)|5.524026|5.544034
+[bin 287](http://aspect-ui.de/SDSSDR12/quasars/Bin287/web/map.html)|5.544034|5.564045
+[bin 288](http://aspect-ui.de/SDSSDR12/quasars/Bin288/web/map.html)|5.564045|5.584154
+[bin 289](http://aspect-ui.de/SDSSDR12/quasars/Bin289/web/map.html)|5.584154|5.604154
+[bin 290](http://aspect-ui.de/SDSSDR12/quasars/Bin290/web/map.html)|5.604154|5.624508
+[bin 291](http://aspect-ui.de/SDSSDR12/quasars/Bin291/web/map.html)|5.624508|5.644548
+[bin 292](http://aspect-ui.de/SDSSDR12/quasars/Bin292/web/map.html)|5.644548|5.664596
+[bin 293](http://aspect-ui.de/SDSSDR12/quasars/Bin293/web/map.html)|5.664596|5.68462
+[bin 294](http://aspect-ui.de/SDSSDR12/quasars/Bin294/web/map.html)|5.68462|5.704627
+[bin 295](http://aspect-ui.de/SDSSDR12/quasars/Bin295/web/map.html)|5.704627|5.724749
+[bin 296](http://aspect-ui.de/SDSSDR12/quasars/Bin296/web/map.html)|5.724749|5.744789
+[bin 297](http://aspect-ui.de/SDSSDR12/quasars/Bin297/web/map.html)|5.744789|5.764806
+[bin 298](http://aspect-ui.de/SDSSDR12/quasars/Bin298/web/map.html)|5.764806|5.784809
+[bin 299](http://aspect-ui.de/SDSSDR12/quasars/Bin299/web/map.html)|5.784809|5.804885
+[bin 300](http://aspect-ui.de/SDSSDR12/quasars/Bin300/web/map.html)|5.804885|5.824926
+[bin 301](http://aspect-ui.de/SDSSDR12/quasars/Bin301/web/map.html)|5.824926|5.845003
+[bin 302](http://aspect-ui.de/SDSSDR12/quasars/Bin302/web/map.html)|5.845003|5.86502
+[bin 303](http://aspect-ui.de/SDSSDR12/quasars/Bin303/web/map.html)|5.86502|5.885038
+[bin 304](http://aspect-ui.de/SDSSDR12/quasars/Bin304/web/map.html)|5.885038|5.905054
+[bin 305](http://aspect-ui.de/SDSSDR12/quasars/Bin305/web/map.html)|5.905054|5.925068
+[bin 306](http://aspect-ui.de/SDSSDR12/quasars/Bin306/web/map.html)|5.925068|5.945103
+[bin 307](http://aspect-ui.de/SDSSDR12/quasars/Bin307/web/map.html)|5.945103|5.965167
+[bin 308](http://aspect-ui.de/SDSSDR12/quasars/Bin308/web/map.html)|5.965167|5.985242
+[bin 309](http://aspect-ui.de/SDSSDR12/quasars/Bin309/web/map.html)|5.985242|6.005301
+[bin 310](http://aspect-ui.de/SDSSDR12/quasars/Bin310/web/map.html)|6.005301|6.025533
+[bin 311](http://aspect-ui.de/SDSSDR12/quasars/Bin311/web/map.html)|6.025533|6.045538
+[bin 312](http://aspect-ui.de/SDSSDR12/quasars/Bin312/web/map.html)|6.045538|6.065661
+[bin 313](http://aspect-ui.de/SDSSDR12/quasars/Bin313/web/map.html)|6.065661|6.085674
+[bin 314](http://aspect-ui.de/SDSSDR12/quasars/Bin314/web/map.html)|6.085674|6.105853
+[bin 315](http://aspect-ui.de/SDSSDR12/quasars/Bin315/web/map.html)|6.105853|6.125908
+[bin 316](http://aspect-ui.de/SDSSDR12/quasars/Bin316/web/map.html)|6.125908|6.145964
+[bin 317](http://aspect-ui.de/SDSSDR12/quasars/Bin317/web/map.html)|6.145964|6.166012
+[bin 318](http://aspect-ui.de/SDSSDR12/quasars/Bin318/web/map.html)|6.166012|6.186139
+[bin 319](http://aspect-ui.de/SDSSDR12/quasars/Bin319/web/map.html)|6.186139|6.206272
+[bin 320](http://aspect-ui.de/SDSSDR12/quasars/Bin320/web/map.html)|6.206272|6.226287
+[bin 321](http://aspect-ui.de/SDSSDR12/quasars/Bin321/web/map.html)|6.226287|6.246298
+[bin 322](http://aspect-ui.de/SDSSDR12/quasars/Bin322/web/map.html)|6.246298|6.266373
+[bin 323](http://aspect-ui.de/SDSSDR12/quasars/Bin323/web/map.html)|6.266373|6.286601
+[bin 324](http://aspect-ui.de/SDSSDR12/quasars/Bin324/web/map.html)|6.286601|6.306623
+[bin 325](http://aspect-ui.de/SDSSDR12/quasars/Bin325/web/map.html)|6.306623|6.326627
+[bin 326](http://aspect-ui.de/SDSSDR12/quasars/Bin326/web/map.html)|6.326627|6.346698
+[bin 327](http://aspect-ui.de/SDSSDR12/quasars/Bin327/web/map.html)|6.346698|6.366754
+[bin 328](http://aspect-ui.de/SDSSDR12/quasars/Bin328/web/map.html)|6.366754|6.386782
+[bin 329](http://aspect-ui.de/SDSSDR12/quasars/Bin329/web/map.html)|6.386782|6.406996
+[bin 330](http://aspect-ui.de/SDSSDR12/quasars/Bin330/web/map.html)|6.406996|6.426998
+[bin 331](http://aspect-ui.de/SDSSDR12/quasars/Bin331/web/map.html)|6.426998|6.447151
+[bin 332](http://aspect-ui.de/SDSSDR12/quasars/Bin332/web/map.html)|6.447151|6.467204
+[bin 333](http://aspect-ui.de/SDSSDR12/quasars/Bin333/web/map.html)|6.467204|6.487535
+[bin 334](http://aspect-ui.de/SDSSDR12/quasars/Bin334/web/map.html)|6.487535|6.507689
+[bin 335](http://aspect-ui.de/SDSSDR12/quasars/Bin335/web/map.html)|6.507689|6.527727
+[bin 336](http://aspect-ui.de/SDSSDR12/quasars/Bin336/web/map.html)|6.527727|6.547765
+[bin 337](http://aspect-ui.de/SDSSDR12/quasars/Bin337/web/map.html)|6.547765|6.567788
+[bin 338](http://aspect-ui.de/SDSSDR12/quasars/Bin338/web/map.html)|6.567788|6.587915
+[bin 339](http://aspect-ui.de/SDSSDR12/quasars/Bin339/web/map.html)|6.587915|6.607926
+[bin 340](http://aspect-ui.de/SDSSDR12/quasars/Bin340/web/map.html)|6.607926|6.627991
+[bin 341](http://aspect-ui.de/SDSSDR12/quasars/Bin341/web/map.html)|6.627991|6.648026
+[bin 342](http://aspect-ui.de/SDSSDR12/quasars/Bin342/web/map.html)|6.648026|6.668287
+[bin 343](http://aspect-ui.de/SDSSDR12/quasars/Bin343/web/map.html)|6.668287|6.688308
+[bin 344](http://aspect-ui.de/SDSSDR12/quasars/Bin344/web/map.html)|6.688308|6.708324
+[bin 345](http://aspect-ui.de/SDSSDR12/quasars/Bin345/web/map.html)|6.708324|6.728401
+[bin 346](http://aspect-ui.de/SDSSDR12/quasars/Bin346/web/map.html)|6.728401|6.748689
+[bin 347](http://aspect-ui.de/SDSSDR12/quasars/Bin347/web/map.html)|6.748689|6.768883
+[bin 348](http://aspect-ui.de/SDSSDR12/quasars/Bin348/web/map.html)|6.768883|6.788974
+[bin 349](http://aspect-ui.de/SDSSDR12/quasars/Bin349/web/map.html)|6.788974|6.809153
+[bin 350](http://aspect-ui.de/SDSSDR12/quasars/Bin350/web/map.html)|6.809153|6.829255
+[bin 351](http://aspect-ui.de/SDSSDR12/quasars/Bin351/web/map.html)|6.829255|6.849394
+[bin 352](http://aspect-ui.de/SDSSDR12/quasars/Bin352/web/map.html)|6.849394|6.869541
+[bin 353](http://aspect-ui.de/SDSSDR12/quasars/Bin353/web/map.html)|6.869541|6.889565
+[bin 354](http://aspect-ui.de/SDSSDR12/quasars/Bin354/web/map.html)|6.889565|6.909567
+[bin 355](http://aspect-ui.de/SDSSDR12/quasars/Bin355/web/map.html)|6.909567|6.929587
+[bin 356](http://aspect-ui.de/SDSSDR12/quasars/Bin356/web/map.html)|6.929587|6.949625
+[bin 357](http://aspect-ui.de/SDSSDR12/quasars/Bin357/web/map.html)|6.949625|6.969661
+[bin 358](http://aspect-ui.de/SDSSDR12/quasars/Bin358/web/map.html)|6.969661|6.989741
+[bin 359](http://aspect-ui.de/SDSSDR12/quasars/Bin359/web/map.html)|6.989741|7.009743
+[bin 360](http://aspect-ui.de/SDSSDR12/quasars/Bin360/web/map.html)|7.009743|7.031674
 
