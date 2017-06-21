@@ -1,23 +1,26 @@
-## 1 million SDSS DR7 spectra
-[spectra map of about 1 million SDSS DR7 spectra](https://maps.aspect-ui.de/4/map.html)
 
-## 1.6 million SDSS DR12 spectra
-[spectra map of about 1.6 million SDSS DR12 spectra (Galaxies and QSOs)](https://maps.aspect-ui.de/6/map.html)
+# SOMs of spectra from the [Sloan Digital Sky Survey (SDSS)](https://www.sdss.org/)
 
-## SOMs in SDSS Stripe 82
-  * [spectra map of about 23 000 SDSS DR12 spectra in SDSS Stripe 82 (QSO only)](https://maps.aspect-ui.de/5/map.html)
-  * [spectra map of about 250 000 SDSS DR12 spectra in SDSS Stripe 82 (STAR, GALAXY, QSO, SNMEDIAN > 3)](https://maps.aspect-ui.de/7/map.html)
-  * [spectra map of about 6 000 SDSS DR12 spectra in SDSS Stripe 82 (GALAXY, QSO; only subclassifications AGN, BROADLINE, AGN_BROADLINE, QSO)](https://maps.aspect-ui.de/8/map.html)
+## [SDSS Data Release 12](https://www.sdss.org/dr12/)
+
+### Galaxies and QSOs
+  * [1.6 million SDSS DR12 spectra of galaxies and QSOs](https://maps.aspect-ui.de/6/map.html)
+
+### QSOs clustered in redshift bins
+  * [0.7 million QSO spectra binned in 360 redshift intervals](applications/QSO_clustering_redshift_mapping.md)
+
+### Stripe 82
+  * [0.25 million spectra with median S/N > 3](https://maps.aspect-ui.de/5/map.html)
+  * [23 000 spectra of QSOs](https://maps.aspect-ui.de/7/map.html)
+  * [6 000 spectra of QSOs and galaxies with subclassifications AGN, BROADLINE, AGN_BROADLINE, QSO ](https://maps.aspect-ui.de/8/map.html)
+  
+
+### Special selections of stars
+  * [sample 1](https://maps.aspect-ui.de/1/map.html)
+  * [sample 2](https://maps.aspect-ui.de/2/map.html)
+  * [sample 3](https://maps.aspect-ui.de/3/map.html)
 
 
-## stellar spectra from SDSS DR12 
+## [SDSS Data Release 7](http://classic.sdss.org/dr7/)
 
-  * [sample 1 of stellar spectra from SDSS DR12 ](https://maps.aspect-ui.de/1/map.html)
-
-  * [sample 2 of stellar spectra from SDSS DR12 ](https://maps.aspect-ui.de/2/map.html)
-
-  * [sample 3 of stellar spectra from SDSS DR12 ](https://maps.aspect-ui.de/3/map.html)
-
-## SDSS DR12 quasar spectra clustered in 360 redshift bins
-
-The quasars were clustered in several hundred redshift bins. To keep this page clear there is a dedicated [page containing the link to each bin](applications/QSO_clustering_redshift_mapping.md).
+  * [about 1 million spectra of stars, galaxies, QSOs and unknowns](https://maps.aspect-ui.de/4/map.html)
