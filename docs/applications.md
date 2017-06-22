@@ -4,7 +4,7 @@
 ## [SDSS Data Release 12](https://www.sdss.org/dr12/)
 
 ### Galaxies and QSOs
-  * [1.6 million SDSS DR12 spectra of galaxies and QSOs](https://maps.aspect-ui.de/6/map.html)
+  * [1.6 million spectra of galaxies and QSOs](https://maps.aspect-ui.de/6/map.html)
 
 ### QSOs clustered in redshift bins
   * [0.7 million QSO spectra binned in 360 redshift intervals](applications/QSO_clustering_redshift_mapping.md)
